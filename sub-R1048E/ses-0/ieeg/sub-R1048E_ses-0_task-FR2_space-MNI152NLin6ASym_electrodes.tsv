@@ -1,0 +1,21 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+DRHD1	13.4371	-25.2889	-10.0795443991793	-999	DRHD	R	depth	13.7745	-26.6729	-8.18048	n/a	parahippocampal	n/a	n/a
+ERHD1	19.489	-35.5663	-2.74323106964422	-999	ERHD	R	depth	22.2312	-29.2106	-2.25907	Right Hippocampus	n/a	SUB	Right Sub
+DRHD2	17.6559	-30.1006	-10.1777984946771	-999	DRHD	R	depth	18.9422	-27.8585	-7.99513	Right Cerebral White Matter	parahippocampal	PHC	Right PHC
+ERHD2	26.0082	-37.7774	-1.50677945789449	-999	ERHD	R	depth	27.4621	-31.5169	-2.48795	Right Hippocampus	n/a	DG	Right DG
+DRHD3	20.7692	-32.4403	-11.0403508782043	-999	DRHD	R	depth	23.1819	-28.9157	-9.05312	Right Cerebral White Matter	parahippocampal	PHC	Right PHC
+ERHD3	31.0189	-40.3653	-3.09681610406294	-999	ERHD	R	depth	31.7534	-33.5411	-3.37482	Right Hippocampus	n/a	n/a	Right CA1
+DRHD4	24.9539	-34.1136	-10.6806654291976	-999	DRHD	R	depth	28.324	-29.6178	-8.95321	Right PHG parahippocampal gyrus	parahippocampal	PHC	Right PHC
+ERHD4	34.6391	-43.6557	-6.92486420196877	-999	ERHD	R	depth	36.082	-36.2023	-4.76152	Right Cerebral White Matter	parahippocampal	n/a	n/a
+DRHD5	29.3604	-37.8913	-10.6245437378014	-999	DRHD	R	depth	33.5433	-31.7705	-8.59682	Right PHG parahippocampal gyrus	parahippocampal	PHC	Right PHC
+ERHD5	38.9486	-46.1878	-10.1662754420991	-999	ERHD	R	depth	41.2988	-38.1783	-5.66126	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+DRHD6	34.8269	-39.4123	-11.8126807329445	-999	DRHD	R	depth	39.1482	-32.4485	-8.50349	Right Cerebral White Matter	parahippocampal	n/a	Right PHC
+ERHD6	42.0047	-48.7595	-11.7815494143859	-999	ERHD	R	depth	45.6043	-40.5327	-5.87726	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+DRHD7	41.858	-39.9203	-12.9704087976088	-999	DRHD	R	depth	44.2901	-33.1505	-8.40367	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+ERHD7	46.0673	-50.3807	-11.7472547072636	-999	ERHD	R	depth	49.8955	-42.557	-6.76408	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+DRHD8	44.9795	-41.953	-14.274590437124	-999	DRHD	R	depth	48.5839	-35.3516	-8.03426	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+ERHD8	52.5638	-52.3516	-12.7693266102348	-999	ERHD	R	depth	55.1497	-45.1701	-8.16373	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+DRHD9	49.6818	-42.7194	-15.6815188674647	-999	DRHD	R	depth	53.7259	-36.0537	-7.93452	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+ERHD9	58.4174	-54.1303	-12.8456199289812	-999	ERHD	R	depth	59.441	-47.1943	-9.05052	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+DRHD10	57.4623	-43.6736	-15.1933314929084	-999	DRHD	R	depth	58.8796	-36.9091	-8.41999	Right MTG middle temporal gyrus	inferiortemporal	n/a	n/a
+ERHD10	64.4273	-55.5065	-13.4658381464185	-999	ERHD	R	depth	63.7438	-49.3719	-10.5228	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
