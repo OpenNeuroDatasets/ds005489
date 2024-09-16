@@ -1,849 +1,849 @@
-onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	list	test	answer	stimulation	stim_list	stim_duration	anode_label	cathode_label	amplitude	pulse_freq	n_pulses	pulse_width	experiment	session	subject
-0.0	65.868	244015	SESS_START	n/a	n/a	n/a	-999	-999	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-65.868	10.0	276950	COUNTDOWN_START	n/a	n/a	n/a	-999	-999	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-76.296	3.724	282164	COUNTDOWN_END	n/a	n/a	n/a	-999	-999	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-80.02	1.6	284026	PRACTICE_WORD	n/a	n/a	RING	1	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-82.47	1.6	285251	PRACTICE_WORD	n/a	n/a	CAMEL	2	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-84.938	1.6	286485	PRACTICE_WORD	n/a	n/a	WAGON	3	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-87.32	1.6	287676	PRACTICE_WORD	n/a	n/a	WATCH	4	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-89.722	1.6	288877	PRACTICE_WORD	n/a	n/a	COTTON	5	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-92.338	1.6	290185	PRACTICE_WORD	n/a	n/a	CHEST	6	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-94.739	1.6	291386	PRACTICE_WORD	n/a	n/a	IRON	7	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-97.322	1.6	292677	PRACTICE_WORD	n/a	n/a	RHINO	8	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-99.69	1.6	293861	PRACTICE_WORD	n/a	n/a	BEAM	9	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-102.19	1.6	295111	PRACTICE_WORD	n/a	n/a	TONGUE	10	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-104.691	1.6	296362	PRACTICE_WORD	n/a	n/a	FLOOD	11	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-107.291	1.6	297662	PRACTICE_WORD	n/a	n/a	ATTIC	12	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-108.908	0.001	298470	PRACTICE_DISTRACT_START	n/a	n/a	n/a	-999	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-108.909	0.016	298471	START	n/a	n/a	n/a	-999	-1	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-108.925	6.034	298479	PROB	6.011	n/a	n/a	-999	-1	[6, 6, 4]	16	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-114.959	4.384	301496	PROB	4.36	n/a	n/a	-999	-1	[4, 1, 8]	13	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-119.343	7.318	303688	PROB	7.291	n/a	n/a	-999	-1	[3, 8, 4]	15	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-126.661	4.517	307347	PROB	4.517	n/a	n/a	-999	-1	[6, 1, 2]	9	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-131.178	0.017	309606	STOP	n/a	n/a	n/a	-999	-1	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-131.195	0.569	309614	PRACTICE_DISTRACT_END	n/a	n/a	n/a	-999	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-131.764	30.514	309899	PRACTICE_REC_START	n/a	n/a	n/a	-999	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-162.278	20.242	325156	PRACTICE_REC_END	n/a	n/a	n/a	-999	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-182.52	0.0	335278	TRIAL	n/a	n/a	n/a	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-182.52	10.0	335278	COUNTDOWN_START	n/a	n/a	n/a	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-192.948	0.009	340492	COUNTDOWN_END	n/a	n/a	n/a	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-192.957	1.6	340496	ORIENT	n/a	n/a	n/a	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-195.556	1.6	341796	WORD	n/a	wordpools/wordpool_EN.txt	RAKE	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-198.041	1.6	343038	WORD	n/a	wordpools/wordpool_EN.txt	TEETH	2	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-200.473	1.6	344254	WORD	n/a	wordpools/wordpool_EN.txt	CROWN	3	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-203.058	1.6	345547	WORD	n/a	wordpools/wordpool_EN.txt	BEAR	4	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-205.641	1.6	346838	WORD	n/a	wordpools/wordpool_EN.txt	FISH	5	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-208.258	1.6	348147	WORD	n/a	wordpools/wordpool_EN.txt	BIRD	6	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-210.86	1.6	349448	WORD	n/a	wordpools/wordpool_EN.txt	DUCK	7	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-213.376	1.6	350706	WORD	n/a	wordpools/wordpool_EN.txt	SHRIMP	8	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-215.927	1.6	351982	WORD	n/a	wordpools/wordpool_EN.txt	DEER	9	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-218.376	1.6	353206	WORD	n/a	wordpools/wordpool_EN.txt	FRUIT	10	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-220.895	1.6	354466	WORD	n/a	wordpools/wordpool_EN.txt	RIB	11	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-223.311	1.6	355674	WORD	n/a	wordpools/wordpool_EN.txt	WORM	12	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-224.929	0.0	356483	DISTRACT_START	n/a	n/a	n/a	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-224.929	0.016	356483	START	n/a	n/a	n/a	-999	1	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-224.945	4.684	356491	PROB	4.659	n/a	n/a	-999	1	[3, 3, 3]	15	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-229.629	6.484	358833	PROB	6.458	n/a	n/a	-999	1	[1, 3, 9]	13	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-236.113	5.234	362075	PROB	5.198	n/a	n/a	-999	1	[8, 4, 9]	21	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-241.347	4.076	364692	PROB	4.076	n/a	n/a	-999	1	[2, 4, 4]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-245.423	0.008	366730	STOP	n/a	n/a	n/a	-999	1	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-245.431	1.04	366734	DISTRACT_END	n/a	n/a	n/a	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-246.471	0.598	367254	REC_START	n/a	n/a	n/a	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-247.069	1.013	367553	REC_WORD	0.598	n/a	BEAR	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-248.082	0.844	368060	REC_WORD	1.611	n/a	BIRD	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-248.926	1.073	368482	REC_WORD	2.455	n/a	FISH	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-249.999	0.628	369018	REC_WORD	3.528	n/a	DUCK	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-250.627	1.626	369332	REC_WORD	4.156	n/a	SHRIMP	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-252.253	0.946	370145	REC_WORD	5.782	n/a	DEER	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-253.199	1.697	370618	REC_WORD	6.728	n/a	RIB	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-254.896	0.797	371467	REC_WORD	8.425	n/a	RAKE	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-255.693	20.78	371865	REC_WORD	9.222	n/a	TEETH	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-276.473	8.416	382256	REC_END	n/a	n/a	n/a	-999	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-284.889	0.0	386464	TRIAL	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-284.889	10.0	386464	COUNTDOWN_START	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-295.317	0.006	391678	COUNTDOWN_END	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-295.323	1.6	391681	ORIENT	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-297.775	1.6	392907	WORD	n/a	wordpools/wordpool_EN.txt	BOX	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-300.291	1.6	394165	WORD	n/a	wordpools/wordpool_EN.txt	DOOR	2	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-302.522	4.6	395280	STIM_ON	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-302.726	1.6	395382	WORD	n/a	wordpools/wordpool_EN.txt	COUCH	3	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-305.258	1.6	396648	WORD	n/a	wordpools/wordpool_EN.txt	SLEEVE	4	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-307.727	1.6	397883	WORD	n/a	wordpools/wordpool_EN.txt	PASTE	5	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-310.176	1.6	399108	WORD	n/a	wordpools/wordpool_EN.txt	CHALK	6	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-312.342	4.6	400191	STIM_ON	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-312.56	1.6	400300	WORD	n/a	wordpools/wordpool_EN.txt	CAGE	7	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-315.077	1.6	401558	WORD	n/a	wordpools/wordpool_EN.txt	CUP	8	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-317.627	1.6	402833	WORD	n/a	wordpools/wordpool_EN.txt	LEG	9	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-320.062	1.6	404051	WORD	n/a	wordpools/wordpool_EN.txt	CART	10	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-322.423	4.6	405231	STIM_ON	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-322.628	1.6	405334	WORD	n/a	wordpools/wordpool_EN.txt	STOOL	11	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-325.013	1.6	406526	WORD	n/a	wordpools/wordpool_EN.txt	DART	12	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-326.629	0.001	407334	DISTRACT_START	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-326.63	0.016	407335	START	n/a	n/a	n/a	-999	2	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-326.646	7.884	407343	PROB	7.849	n/a	n/a	-999	2	[6, 3, 8]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-334.53	7.302	411285	PROB	7.27	n/a	n/a	-999	2	[4, 8, 4]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-341.832	3.034	414936	PROB	3.0	n/a	n/a	-999	2	[2, 4, 1]	7	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-344.866	3.789	416453	PROB	3.789	n/a	n/a	-999	2	[1, 1, 9]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-348.655	0.011	418348	STOP	n/a	n/a	n/a	-999	2	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-348.666	1.152	418353	DISTRACT_END	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-349.818	1.492	418929	REC_START	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-351.31	0.919	419675	REC_WORD	1.492	n/a	CART	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-352.229	2.164	420135	REC_WORD	2.411	n/a	LEG	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-354.393	17.196	421217	REC_WORD	4.575	n/a	CHAIR	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-371.589	2.637	429815	REC_WORD	21.771	n/a	DOOR	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-374.226	0.605	431134	REC_WORD	24.408	n/a	CHALK	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-374.831	4.995	431436	REC_WORD	25.013	n/a	PASTE	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-379.826	15.032	433934	REC_END	n/a	n/a	n/a	-999	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-394.858	10.0	441450	COUNTDOWN_START	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-394.859	10.427	441450	TRIAL	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-405.286	0.007	446664	COUNTDOWN_END	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-405.293	1.6	446668	ORIENT	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-407.676	1.6	447859	WORD	n/a	wordpools/wordpool_EN.txt	BLOOM	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-410.127	1.6	449085	WORD	n/a	wordpools/wordpool_EN.txt	BARN	2	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-412.527	1.6	450285	WORD	n/a	wordpools/wordpool_EN.txt	PEN	3	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-415.078	1.6	451560	WORD	n/a	wordpools/wordpool_EN.txt	WHEEL	4	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-417.696	1.6	452869	WORD	n/a	wordpools/wordpool_EN.txt	BRICK	5	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-420.295	1.6	454169	WORD	n/a	wordpools/wordpool_EN.txt	SALT	6	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-422.813	1.6	455428	WORD	n/a	wordpools/wordpool_EN.txt	MOLE	7	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-425.363	1.6	456703	WORD	n/a	wordpools/wordpool_EN.txt	MOTH	8	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-427.831	1.6	457937	WORD	n/a	wordpools/wordpool_EN.txt	DOG	9	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-430.28	1.6	459162	WORD	n/a	wordpools/wordpool_EN.txt	FLEA	10	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-432.865	1.6	460454	WORD	n/a	wordpools/wordpool_EN.txt	STEAM	11	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-435.415	1.6	461729	WORD	n/a	wordpools/wordpool_EN.txt	KITE	12	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-437.033	0.0	462538	DISTRACT_START	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-437.033	0.016	462538	START	n/a	n/a	n/a	-999	3	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-437.049	8.868	462546	PROB	8.835	n/a	n/a	-999	3	[4, 5, 6]	15	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-445.917	6.835	466980	PROB	6.815	n/a	n/a	-999	3	[5, 2, 4]	11	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-452.752	5.635	470398	PROB	5.635	n/a	n/a	-999	3	[7, 6, 2]	15	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-458.387	0.015	473215	STOP	n/a	n/a	n/a	-999	3	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-458.402	1.101	473223	DISTRACT_END	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-459.503	0.942	473773	REC_START	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-460.445	1.243	474245	REC_WORD	0.942	n/a	MOLE	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-461.688	0.89	474866	REC_WORD	2.185	n/a	DOG	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-462.578	1.756	475311	REC_WORD	3.075	n/a	FLEA	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-464.334	1.011	476189	REC_WORD	4.831	n/a	BARN	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-465.345	3.9	476695	REC_WORD	5.842	n/a	PEN	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-469.245	13.676	478645	REC_WORD	9.742	n/a	CAGE	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-482.921	6.589	485483	REC_WORD	23.418	n/a	MOTH	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-489.51	6.45	488777	REC_END	n/a	n/a	n/a	-999	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-495.96	0.0	492003	TRIAL	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-495.96	10.0	492003	COUNTDOWN_START	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-506.388	0.006	497217	COUNTDOWN_END	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-506.394	1.6	497220	ORIENT	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-508.74	4.6	498393	STIM_ON	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-508.945	1.6	498495	WORD	n/a	wordpools/wordpool_EN.txt	CLOCK	1	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-511.395	1.6	499720	WORD	n/a	wordpools/wordpool_EN.txt	FENCE	2	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-513.896	1.6	500971	WORD	n/a	wordpools/wordpool_EN.txt	WEED	3	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-516.462	1.6	502254	WORD	n/a	wordpools/wordpool_EN.txt	BENCH	4	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-518.862	4.6	503454	STIM_ON	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-519.079	1.6	503562	WORD	n/a	wordpools/wordpool_EN.txt	WALL	5	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-521.48	1.6	504763	WORD	n/a	wordpools/wordpool_EN.txt	BAND	6	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-524.08	1.6	506063	WORD	n/a	wordpools/wordpool_EN.txt	TOE	7	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-526.614	1.6	507330	WORD	n/a	wordpools/wordpool_EN.txt	HORN	8	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-529.023	4.6	508535	STIM_ON	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-529.231	1.6	508639	WORD	n/a	wordpools/wordpool_EN.txt	HAWK	9	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-531.816	1.6	509931	WORD	n/a	wordpools/wordpool_EN.txt	NOSE	10	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-534.365	1.6	511206	WORD	n/a	wordpools/wordpool_EN.txt	CLIFF	11	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-536.95	1.6	512498	WORD	n/a	wordpools/wordpool_EN.txt	HAND	12	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-538.566	0.001	513306	DISTRACT_START	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-538.567	0.016	513307	START	n/a	n/a	n/a	-999	4	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-538.583	5.884	513315	PROB	5.852	n/a	n/a	-999	4	[8, 9, 6]	23	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-544.467	2.65	516257	PROB	2.616	n/a	n/a	-999	4	[5, 1, 6]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-547.117	5.485	517582	PROB	5.454	n/a	n/a	-999	4	[9, 8, 2]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-552.602	3.201	520325	PROB	3.178	n/a	n/a	-999	4	[5, 3, 3]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-555.803	4.304	521925	PROB	4.304	n/a	n/a	-999	4	[4, 7, 4]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-560.107	0.013	524077	STOP	n/a	n/a	n/a	-999	4	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-560.12	1.217	524084	DISTRACT_END	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-561.337	0.547	524692	REC_START	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-561.884	1.108	524966	REC_WORD	0.547	n/a	CLIFF	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-562.992	28.353	525520	REC_WORD	1.655	n/a	HAND	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-591.345	19.184	539697	REC_END	n/a	n/a	n/a	-999	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-610.529	0.0	549289	TRIAL	n/a	n/a	n/a	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-610.529	10.0	549289	COUNTDOWN_START	n/a	n/a	n/a	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-620.957	0.008	554503	COUNTDOWN_END	n/a	n/a	n/a	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-620.965	1.6	554507	ORIENT	n/a	n/a	n/a	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-623.498	1.6	555774	WORD	n/a	wordpools/wordpool_EN.txt	AXE	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-626.114	1.6	557082	WORD	n/a	wordpools/wordpool_EN.txt	OWL	2	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-628.615	1.6	558332	WORD	n/a	wordpools/wordpool_EN.txt	GOAT	3	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-631.216	1.6	559633	WORD	n/a	wordpools/wordpool_EN.txt	EAR	4	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-633.8	1.6	560925	WORD	n/a	wordpools/wordpool_EN.txt	RAT	5	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-636.2	1.6	562125	WORD	n/a	wordpools/wordpool_EN.txt	FORK	6	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-638.785	1.6	563417	WORD	n/a	wordpools/wordpool_EN.txt	ROPE	7	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-641.301	1.6	564675	WORD	n/a	wordpools/wordpool_EN.txt	PIPE	8	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-643.836	1.6	565943	WORD	n/a	wordpools/wordpool_EN.txt	CRANE	9	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-646.335	1.6	567193	WORD	n/a	wordpools/wordpool_EN.txt	MOUTH	10	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-648.853	1.6	568452	WORD	n/a	wordpools/wordpool_EN.txt	WAND	11	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-651.236	1.6	569643	WORD	n/a	wordpools/wordpool_EN.txt	THUMB	12	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-652.854	0.0	570452	DISTRACT_START	n/a	n/a	n/a	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-652.854	0.016	570452	START	n/a	n/a	n/a	-999	5	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-652.87	7.168	570460	PROB	7.133	n/a	n/a	-999	5	[5, 6, 2]	13	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-660.038	7.301	574044	PROB	7.274	n/a	n/a	-999	5	[1, 8, 1]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-667.339	4.967	577695	PROB	4.933	n/a	n/a	-999	5	[4, 4, 2]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-672.306	4.966	580178	PROB	4.966	n/a	n/a	-999	5	[5, 3, 8]	16	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-677.272	0.018	582662	STOP	n/a	n/a	n/a	-999	5	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-677.29	1.201	582671	DISTRACT_END	n/a	n/a	n/a	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-678.491	1.129	583271	REC_START	n/a	n/a	n/a	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-679.62	1.745	583836	REC_WORD	1.129	n/a	WAND	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-681.365	7.399	584708	REC_WORD	2.874	n/a	CROWN	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-688.764	5.988	588408	REC_WORD	10.273	n/a	FORK	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-694.752	1.073	591402	REC_WORD	16.261	n/a	ROPE	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-695.825	2.1	591938	REC_WORD	17.334	n/a	AXE	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-697.925	5.099	592988	REC_WORD	19.434	n/a	RAT	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-703.024	5.476	595538	REC_WORD	24.533	n/a	OWL	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-708.5	14.516	598276	REC_END	n/a	n/a	n/a	-999	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-723.016	0.0	605534	TRIAL	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-723.016	10.0	605534	COUNTDOWN_START	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-733.444	0.006	610748	COUNTDOWN_END	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-733.45	1.6	610751	ORIENT	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-735.885	1.6	611969	WORD	n/a	wordpools/wordpool_EN.txt	WOOD	1	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-738.351	1.6	613202	WORD	n/a	wordpools/wordpool_EN.txt	HAT	2	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-740.666	4.6	614360	STIM_ON	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-740.869	1.6	614461	WORD	n/a	wordpools/wordpool_EN.txt	JET	3	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-743.269	1.6	615661	WORD	n/a	wordpools/wordpool_EN.txt	FOAM	4	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-745.853	1.6	616953	WORD	n/a	wordpools/wordpool_EN.txt	BAT	5	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-748.303	1.6	618178	WORD	n/a	wordpools/wordpool_EN.txt	ROOM	6	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-750.693	4.6	619373	STIM_ON	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-750.904	1.6	619479	WORD	n/a	wordpools/wordpool_EN.txt	WING	7	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-753.354	1.6	620704	WORD	n/a	wordpools/wordpool_EN.txt	SLIME	8	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-755.772	1.6	621913	WORD	n/a	wordpools/wordpool_EN.txt	BOWL	9	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-758.321	1.6	623187	WORD	n/a	wordpools/wordpool_EN.txt	FUR	10	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-760.655	4.6	624354	STIM_ON	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-760.873	1.6	624463	WORD	n/a	wordpools/wordpool_EN.txt	PIN	11	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-763.405	1.6	625729	WORD	n/a	wordpools/wordpool_EN.txt	SPARK	12	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-765.006	0.001	626530	DISTRACT_START	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-765.007	0.016	626530	START	n/a	n/a	n/a	-999	6	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-765.023	5.584	626538	PROB	5.55	n/a	n/a	-999	6	[7, 2, 8]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-770.607	2.867	629331	PROB	2.839	n/a	n/a	-999	6	[1, 5, 9]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-773.474	2.401	630764	PROB	2.372	n/a	n/a	-999	6	[1, 9, 3]	13	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-775.875	4.001	631965	PROB	3.971	n/a	n/a	-999	6	[6, 5, 2]	13	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-779.876	7.358	633965	PROB	7.358	n/a	n/a	-999	6	[2, 4, 3]	9	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-787.234	0.009	637644	STOP	n/a	n/a	n/a	-999	6	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-787.243	1.051	637649	DISTRACT_END	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-788.294	1.118	638174	REC_START	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-789.412	0.793	638733	REC_WORD	1.118	n/a	PIN	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-790.205	6.838	639130	REC_WORD	1.911	n/a	SPARK	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-797.043	9.969	642549	REC_WORD	8.749	n/a	FUR	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-807.012	11.29	647534	REC_WORD	18.718	n/a	BOWL	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-818.302	14.799	653179	REC_END	n/a	n/a	n/a	-999	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-833.101	0.0	660579	TRIAL	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-833.101	10.0	660579	COUNTDOWN_START	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-843.529	0.007	665793	COUNTDOWN_END	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-843.536	1.6	665796	ORIENT	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-845.929	4.6	666993	STIM_ON	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-846.137	1.6	667097	WORD	n/a	wordpools/wordpool_EN.txt	JEEP	1	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-848.67	1.6	668363	WORD	n/a	wordpools/wordpool_EN.txt	SHIRT	2	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-851.137	1.6	669597	WORD	n/a	wordpools/wordpool_EN.txt	CAKE	3	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-853.505	1.6	670781	WORD	n/a	wordpools/wordpool_EN.txt	PARK	4	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-855.824	4.6	671940	STIM_ON	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-856.039	1.6	672048	WORD	n/a	wordpools/wordpool_EN.txt	PIG	5	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-858.439	1.6	673248	WORD	n/a	wordpools/wordpool_EN.txt	PLANE	6	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-861.007	1.6	674532	WORD	n/a	wordpools/wordpool_EN.txt	MAT	7	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-863.573	1.6	675815	WORD	n/a	wordpools/wordpool_EN.txt	TRAIN	8	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-865.885	4.6	676971	STIM_ON	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-866.09	1.6	677074	WORD	n/a	wordpools/wordpool_EN.txt	STEAK	9	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-868.641	1.6	678349	WORD	n/a	wordpools/wordpool_EN.txt	PURSE	10	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-871.091	1.6	679574	WORD	n/a	wordpools/wordpool_EN.txt	FUDGE	11	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-873.692	1.6	680875	WORD	n/a	wordpools/wordpool_EN.txt	PET	12	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-875.308	0.001	681683	DISTRACT_START	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-875.309	0.016	681683	START	n/a	n/a	n/a	-999	7	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-875.325	9.068	681691	PROB	9.042	n/a	n/a	-999	7	[6, 5, 9]	20	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-884.393	4.068	686225	PROB	4.045	n/a	n/a	-999	7	[2, 7, 1]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-888.461	6.717	688259	PROB	6.687	n/a	n/a	-999	7	[6, 7, 6]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-895.178	5.994	691618	PROB	5.994	n/a	n/a	-999	7	[9, 7, 2]	18	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-901.172	0.007	694615	STOP	n/a	n/a	n/a	-999	7	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-901.179	1.135	694619	DISTRACT_END	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-902.314	0.739	695186	REC_START	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-903.053	0.809	695556	REC_WORD	0.739	n/a	PARK	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-903.862	0.984	695960	REC_WORD	1.548	n/a	PIG	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-904.846	1.132	696452	REC_WORD	2.532	n/a	PLANE	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-905.978	1.193	697018	REC_WORD	3.664	n/a	TRAIN	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-907.171	25.151	697615	REC_WORD	4.857	n/a	PURSE	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-932.322	2.88	710191	REC_END	n/a	n/a	n/a	-999	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-935.202	0.0	711631	TRIAL	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-935.202	10.0	711631	COUNTDOWN_START	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-945.63	0.007	716845	COUNTDOWN_END	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-945.637	1.6	716848	ORIENT	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-948.221	1.6	718140	WORD	n/a	wordpools/wordpool_EN.txt	PHONE	1	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-950.823	1.6	719441	WORD	n/a	wordpools/wordpool_EN.txt	TOAST	2	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-953.195	4.6	720627	STIM_ON	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-953.405	1.6	720732	WORD	n/a	wordpools/wordpool_EN.txt	TANK	3	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-955.94	1.6	722000	WORD	n/a	wordpools/wordpool_EN.txt	PEA	4	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-958.423	1.6	723242	WORD	n/a	wordpools/wordpool_EN.txt	CHAIR	5	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-960.791	1.6	724426	WORD	n/a	wordpools/wordpool_EN.txt	BEAN	6	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-963.21	4.6	725635	STIM_ON	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-963.424	1.6	725742	WORD	n/a	wordpools/wordpool_EN.txt	POOL	7	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-965.959	1.6	727010	WORD	n/a	wordpools/wordpool_EN.txt	YARD	8	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-968.475	1.6	728268	WORD	n/a	wordpools/wordpool_EN.txt	MUG	9	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-970.893	1.6	729477	WORD	n/a	wordpools/wordpool_EN.txt	MAIL	10	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-973.156	4.6	730608	STIM_ON	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-973.359	1.6	730710	WORD	n/a	wordpools/wordpool_EN.txt	FAN	11	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-975.877	1.6	731969	WORD	n/a	wordpools/wordpool_EN.txt	DIME	12	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-977.493	0.001	732777	DISTRACT_START	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-977.494	0.016	732777	START	n/a	n/a	n/a	-999	8	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-977.51	14.286	732785	PROB	14.257	n/a	n/a	-999	8	[3, 3, 4]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-991.796	8.335	739929	PROB	8.335	n/a	n/a	-999	8	[1, 6, 1]	8	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1000.131	0.016	744096	STOP	n/a	n/a	n/a	-999	8	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1000.147	1.134	744104	DISTRACT_END	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1001.281	1.949	744671	REC_START	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1003.23	1.127	745646	REC_WORD	1.949	n/a	MUG	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1004.357	26.932	746209	REC_WORD	3.076	n/a	MAIL	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1031.289	17.983	759676	REC_END	n/a	n/a	n/a	-999	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1049.272	0.0	768668	TRIAL	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1049.272	10.0	768668	COUNTDOWN_START	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1059.7	0.008	773882	COUNTDOWN_END	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1059.708	1.6	773886	ORIENT	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1062.08	4.6	775072	STIM_ON	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1062.291	1.6	775177	WORD	n/a	wordpools/wordpool_EN.txt	MOUSE	1	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1064.675	1.6	776369	WORD	n/a	wordpools/wordpool_EN.txt	CROW	2	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1067.109	1.6	777586	WORD	n/a	wordpools/wordpool_EN.txt	ROAD	3	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1069.542	1.6	778803	WORD	n/a	wordpools/wordpool_EN.txt	GRASS	4	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1071.76	4.6	779912	STIM_ON	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1071.977	1.6	780020	WORD	n/a	wordpools/wordpool_EN.txt	DRUM	5	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1074.443	1.6	781253	WORD	n/a	wordpools/wordpool_EN.txt	WEB	6	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1076.995	1.6	782529	WORD	n/a	wordpools/wordpool_EN.txt	FLUTE	7	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1079.594	1.6	783829	WORD	n/a	wordpools/wordpool_EN.txt	RAIN	8	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1081.786	4.6	784925	STIM_ON	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1081.996	1.6	785030	WORD	n/a	wordpools/wordpool_EN.txt	CALF	9	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1084.528	1.6	786296	WORD	n/a	wordpools/wordpool_EN.txt	PRINCE	10	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1087.095	1.6	787580	WORD	n/a	wordpools/wordpool_EN.txt	SHELL	11	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1089.479	1.6	788772	WORD	n/a	wordpools/wordpool_EN.txt	WOLF	12	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1091.096	0.001	789580	DISTRACT_START	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1091.097	0.016	789581	START	n/a	n/a	n/a	-999	9	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1091.113	7.151	789589	PROB	7.118	n/a	n/a	-999	9	[2, 8, 9]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1098.264	3.752	793164	PROB	3.727	n/a	n/a	-999	9	[8, 5, 8]	21	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1102.016	4.767	795040	PROB	4.743	n/a	n/a	-999	9	[3, 3, 6]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1106.783	4.455	797424	PROB	4.455	n/a	n/a	-999	9	[3, 6, 1]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1111.238	0.012	799652	STOP	n/a	n/a	n/a	-999	9	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1111.25	1.217	799658	DISTRACT_END	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1112.467	0.829	800266	REC_START	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1113.296	0.915	800681	REC_WORD	0.829	n/a	ROAD	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1114.211	1.089	801138	REC_WORD	1.744	n/a	GRASS	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1115.3	1.654	801683	REC_WORD	2.833	n/a	RAIN	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1116.954	25.525	802510	REC_WORD	4.487	n/a	WOLF	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1142.479	27.332	815273	REC_END	n/a	n/a	n/a	-999	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1169.811	10.0	828939	COUNTDOWN_START	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1169.811	10.428	828939	TRIAL	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1180.239	0.006	834153	COUNTDOWN_END	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1180.245	1.6	834156	ORIENT	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1182.847	1.6	835457	WORD	n/a	wordpools/wordpool_EN.txt	CAR	1	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1185.329	1.6	836698	WORD	n/a	wordpools/wordpool_EN.txt	STORE	2	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1187.709	4.6	837888	STIM_ON	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1187.914	1.6	837991	WORD	n/a	wordpools/wordpool_EN.txt	PLANT	3	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1190.497	1.6	839282	WORD	n/a	wordpools/wordpool_EN.txt	ROOT	4	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1193.081	1.6	840574	WORD	n/a	wordpools/wordpool_EN.txt	FARM	5	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1195.548	1.6	841808	WORD	n/a	wordpools/wordpool_EN.txt	JUICE	6	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1197.856	4.6	842962	STIM_ON	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1198.066	1.6	843067	WORD	n/a	wordpools/wordpool_EN.txt	STORM	7	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1200.682	1.6	844375	WORD	n/a	wordpools/wordpool_EN.txt	SHEEP	8	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1203.316	1.6	845692	WORD	n/a	wordpools/wordpool_EN.txt	ICE	9	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1205.734	1.6	846901	WORD	n/a	wordpools/wordpool_EN.txt	TRASH	10	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1208.026	4.6	848047	STIM_ON	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1208.233	1.6	848151	WORD	n/a	wordpools/wordpool_EN.txt	CUBE	11	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1210.751	1.6	849410	WORD	n/a	wordpools/wordpool_EN.txt	GRAPE	12	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1212.367	0.001	850218	DISTRACT_START	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1212.368	0.016	850218	START	n/a	n/a	n/a	-999	10	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1212.384	12.019	850226	PROB	11.987	n/a	n/a	-999	10	[7, 5, 9]	21	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1224.403	4.134	856236	PROB	4.112	n/a	n/a	-999	10	[6, 1, 9]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1228.537	5.254	858303	PROB	5.254	n/a	n/a	-999	10	[9, 8, 9]	24	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1233.791	0.014	860930	STOP	n/a	n/a	n/a	-999	10	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1233.805	1.218	860937	DISTRACT_END	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1235.023	1.031	861546	REC_START	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1236.054	0.835	862062	REC_WORD	1.031	n/a	PLANT	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1236.889	1.072	862479	REC_WORD	1.866	n/a	STORM	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1237.961	1.545	863015	REC_WORD	2.938	n/a	ICE	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1239.506	25.525	863788	REC_WORD	4.483	n/a	CUBE	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1265.031	9.948	876551	REC_END	n/a	n/a	n/a	-999	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1274.979	10.0	881525	COUNTDOWN_START	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1274.98	10.427	881525	TRIAL	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1285.407	0.007	886739	COUNTDOWN_END	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1285.414	1.6	886742	ORIENT	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1287.898	1.6	887984	WORD	n/a	wordpools/wordpool_EN.txt	SPEAR	1	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1290.414	1.6	889242	WORD	n/a	wordpools/wordpool_EN.txt	HOLE	2	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1292.815	4.6	890443	STIM_ON	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1293.033	1.6	890552	WORD	n/a	wordpools/wordpool_EN.txt	BUSH	3	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1295.499	1.6	891785	WORD	n/a	wordpools/wordpool_EN.txt	CHIN	4	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1298.067	1.6	893069	WORD	n/a	wordpools/wordpool_EN.txt	CHEEK	5	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1300.5	1.6	894286	WORD	n/a	wordpools/wordpool_EN.txt	PALM	6	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1302.67	4.6	895371	STIM_ON	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1302.884	1.6	895478	WORD	n/a	wordpools/wordpool_EN.txt	FLOOR	7	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1305.317	1.6	896694	WORD	n/a	wordpools/wordpool_EN.txt	CONE	8	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1307.885	1.6	897978	WORD	n/a	wordpools/wordpool_EN.txt	LOCK	9	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1310.334	1.6	899203	WORD	n/a	wordpools/wordpool_EN.txt	SWORD	10	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1312.639	4.6	900355	STIM_ON	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1312.853	1.6	900462	WORD	n/a	wordpools/wordpool_EN.txt	FROG	11	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1315.319	1.6	901695	WORD	n/a	wordpools/wordpool_EN.txt	FLAME	12	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1316.937	0.0	902504	DISTRACT_START	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1316.937	0.016	902504	START	n/a	n/a	n/a	-999	11	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1316.953	10.086	902512	PROB	10.058	n/a	n/a	-999	11	[5, 2, 1]	8	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1327.039	4.383	907556	PROB	4.348	n/a	n/a	-999	11	[8, 2, 1]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1331.422	3.535	909747	PROB	3.502	n/a	n/a	-999	11	[2, 3, 1]	6	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1334.957	2.983	911515	PROB	2.983	n/a	n/a	-999	11	[5, 9, 1]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1337.94	0.017	913006	STOP	n/a	n/a	n/a	-999	11	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1337.957	1.101	913015	DISTRACT_END	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1339.058	0.53	913565	REC_START	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1339.588	0.965	913830	REC_WORD	0.53	n/a	CHIN	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1340.553	1.446	914313	REC_WORD	1.495	n/a	CHEEK	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1341.999	0.815	915036	REC_WORD	2.941	n/a	LOCK	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1342.814	26.252	915443	REC_WORD	3.756	n/a	PALM	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1369.066	23.483	928570	REC_END	n/a	n/a	n/a	-999	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1392.549	10.0	940312	COUNTDOWN_START	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1392.549	10.428	940312	TRIAL	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1402.977	0.008	945526	COUNTDOWN_END	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1402.985	1.6	945530	ORIENT	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1405.328	4.6	946701	STIM_ON	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1405.535	1.6	946805	WORD	n/a	wordpools/wordpool_EN.txt	CASH	1	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1408.069	1.6	948072	WORD	n/a	wordpools/wordpool_EN.txt	TOOTH	2	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1410.485	1.6	949280	WORD	n/a	wordpools/wordpool_EN.txt	SPONGE	3	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1412.92	1.6	950497	WORD	n/a	wordpools/wordpool_EN.txt	WORLD	4	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1415.149	4.6	951612	STIM_ON	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1415.353	1.6	951714	WORD	n/a	wordpools/wordpool_EN.txt	SEED	5	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1417.871	1.6	952973	WORD	n/a	wordpools/wordpool_EN.txt	BRUSH	6	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1420.304	1.6	954190	WORD	n/a	wordpools/wordpool_EN.txt	BANK	7	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1422.772	1.6	955424	WORD	n/a	wordpools/wordpool_EN.txt	ANT	8	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1425.152	4.6	956614	STIM_ON	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1425.355	1.6	956715	WORD	n/a	wordpools/wordpool_EN.txt	LEAF	9	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1427.973	1.6	958024	WORD	n/a	wordpools/wordpool_EN.txt	BRANCH	10	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1430.422	1.6	959249	WORD	n/a	wordpools/wordpool_EN.txt	CORD	11	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1432.94	1.6	960508	WORD	n/a	wordpools/wordpool_EN.txt	STEM	12	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1434.556	0.001	961316	DISTRACT_START	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1434.557	0.016	961316	START	n/a	n/a	n/a	-999	12	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1434.573	10.17	961324	PROB	10.148	n/a	n/a	-999	12	[2, 4, 8]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1444.743	5.766	966409	PROB	5.738	n/a	n/a	-999	12	[7, 5, 2]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1450.509	3.801	969293	PROB	3.779	n/a	n/a	-999	12	[7, 7, 5]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1454.31	3.994	971193	PROB	3.994	n/a	n/a	-999	12	[8, 3, 6]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1458.304	0.007	973190	STOP	n/a	n/a	n/a	-999	12	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1458.311	1.167	973194	DISTRACT_END	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1459.478	0.641	973777	REC_START	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1460.119	1.107	974098	REC_WORD	0.641	n/a	CASH	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1461.226	1.151	974651	REC_WORD	1.748	n/a	TOOTH	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1462.377	0.961	975227	REC_WORD	2.899	n/a	BRUSH	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1463.338	1.768	975707	REC_WORD	3.86	n/a	WORLD	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1465.106	24.38	976591	REC_WORD	5.628	n/a	BANK	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1489.486	46.406	988782	REC_END	n/a	n/a	n/a	-999	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1535.892	0.0	1011985	TRIAL	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1535.892	10.0	1011985	COUNTDOWN_START	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1546.32	0.006	1017200	COUNTDOWN_END	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1546.326	1.6	1017203	ORIENT	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1548.711	1.6	1018395	WORD	n/a	wordpools/wordpool_EN.txt	THREAD	1	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1551.127	1.6	1019603	WORD	n/a	wordpools/wordpool_EN.txt	SHOE	2	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1553.428	4.6	1020754	STIM_ON	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1553.644	1.6	1020862	WORD	n/a	wordpools/wordpool_EN.txt	LIP	3	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1556.227	1.6	1022153	WORD	n/a	wordpools/wordpool_EN.txt	SUIT	4	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1558.645	1.6	1023362	WORD	n/a	wordpools/wordpool_EN.txt	RUG	5	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1561.03	1.6	1024555	WORD	n/a	wordpools/wordpool_EN.txt	SHIELD	6	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1563.228	4.6	1025654	STIM_ON	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1563.446	1.6	1025763	WORD	n/a	wordpools/wordpool_EN.txt	SIGN	7	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1565.947	1.6	1027013	WORD	n/a	wordpools/wordpool_EN.txt	BEAK	8	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1568.396	1.6	1028238	WORD	n/a	wordpools/wordpool_EN.txt	PANTS	9	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1570.815	1.6	1029447	WORD	n/a	wordpools/wordpool_EN.txt	SOAP	10	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1573.125	4.6	1030603	STIM_ON	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1573.331	1.6	1030706	WORD	n/a	wordpools/wordpool_EN.txt	CLOWN	11	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1575.832	1.6	1031956	WORD	n/a	wordpools/wordpool_EN.txt	LAMP	12	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1577.448	0.001	1032764	DISTRACT_START	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1577.449	0.016	1032765	START	n/a	n/a	n/a	-999	13	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1577.465	6.984	1032773	PROB	6.955	n/a	n/a	-999	13	[7, 2, 4]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1584.449	8.669	1036265	PROB	8.644	n/a	n/a	-999	13	[1, 7, 2]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1593.118	5.608	1040599	PROB	5.608	n/a	n/a	-999	13	[2, 9, 5]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1598.726	0.01	1043403	STOP	n/a	n/a	n/a	-999	13	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1598.736	1.067	1043408	DISTRACT_END	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1599.803	1.263	1043942	REC_START	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1601.066	1.043	1044573	REC_WORD	1.263	n/a	SUIT	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1602.109	1.333	1045095	REC_WORD	2.306	n/a	SHIELD	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1603.442	2.688	1045762	REC_WORD	3.639	n/a	PANTS	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1606.13	6.319	1047106	REC_WORD	6.327	n/a	CLOWN	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1612.449	17.367	1050265	REC_WORD	12.646	n/a	LAMP	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1629.816	6.459	1058949	REC_END	n/a	n/a	n/a	-999	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1636.275	10.0	1062179	COUNTDOWN_START	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1636.275	10.428	1062179	TRIAL	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1646.703	0.008	1067393	COUNTDOWN_END	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1646.711	1.6	1067397	ORIENT	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1649.277	1.6	1068680	WORD	n/a	wordpools/wordpool_EN.txt	CLOUD	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1651.695	1.6	1069889	WORD	n/a	wordpools/wordpool_EN.txt	JUDGE	2	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1653.936	4.6	1071009	STIM_ON	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1654.145	1.6	1071114	WORD	n/a	wordpools/wordpool_EN.txt	WHALE	3	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1656.579	1.6	1072331	WORD	n/a	wordpools/wordpool_EN.txt	HORSE	4	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1659.129	1.6	1073606	WORD	n/a	wordpools/wordpool_EN.txt	BEACH	5	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1661.613	1.6	1074848	WORD	n/a	wordpools/wordpool_EN.txt	STAR	6	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1663.785	4.6	1075934	STIM_ON	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1663.998	1.6	1076041	WORD	n/a	wordpools/wordpool_EN.txt	WAVE	7	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1666.614	1.6	1077349	WORD	n/a	wordpools/wordpool_EN.txt	SMOKE	8	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1669.164	1.6	1078624	WORD	n/a	wordpools/wordpool_EN.txt	HEN	9	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1671.565	1.6	1079824	WORD	n/a	wordpools/wordpool_EN.txt	HEART	10	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1673.787	4.6	1080935	STIM_ON	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1673.999	1.6	1081041	WORD	n/a	wordpools/wordpool_EN.txt	GLOVE	11	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1676.499	1.6	1082291	WORD	n/a	wordpools/wordpool_EN.txt	VEST	12	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1678.116	0.0	1083100	DISTRACT_START	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1678.116	0.016	1083100	START	n/a	n/a	n/a	-999	14	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1678.132	5.769	1083108	PROB	5.739	n/a	n/a	-999	14	[1, 6, 1]	8	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1683.901	5.084	1085992	PROB	5.05	n/a	n/a	-999	14	[4, 8, 5]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1688.985	2.3	1088534	PROB	2.269	n/a	n/a	-999	14	[5, 6, 1]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1691.285	6.001	1089684	PROB	5.977	n/a	n/a	-999	14	[7, 6, 7]	20	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1697.286	5.079	1092685	PROB	5.079	n/a	n/a	-999	14	[5, 1, 3]	9	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1702.365	0.005	1095225	STOP	n/a	n/a	n/a	-999	14	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1702.37	1.067	1095227	DISTRACT_END	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1703.437	0.994	1095761	REC_START	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1704.431	0.983	1096258	REC_WORD	0.994	n/a	WHALE	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1705.414	1.05	1096749	REC_WORD	1.977	n/a	HORSE	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1706.464	0.991	1097274	REC_WORD	3.027	n/a	HEN	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1707.455	1.147	1097770	REC_WORD	4.018	n/a	BEACH	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1708.602	8.195	1098343	REC_WORD	5.165	n/a	STAR	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1716.797	16.653	1102441	REC_WORD	13.36	n/a	WAVE	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1733.45	11.661	1110768	REC_END	n/a	n/a	n/a	-999	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1745.111	0.0	1116598	TRIAL	n/a	n/a	n/a	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1745.111	10.0	1116598	COUNTDOWN_START	n/a	n/a	n/a	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1755.539	0.007	1121812	COUNTDOWN_END	n/a	n/a	n/a	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1755.546	1.6	1121816	ORIENT	n/a	n/a	n/a	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1758.047	1.6	1123067	WORD	n/a	wordpools/wordpool_EN.txt	CHIEF	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1760.597	1.6	1124342	WORD	n/a	wordpools/wordpool_EN.txt	SCHOOL	2	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1763.114	1.6	1125600	WORD	n/a	wordpools/wordpool_EN.txt	TRUCK	3	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1765.548	1.6	1126817	WORD	n/a	wordpools/wordpool_EN.txt	SINK	4	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1768.132	1.6	1128109	WORD	n/a	wordpools/wordpool_EN.txt	BADGE	5	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1770.615	1.6	1129351	WORD	n/a	wordpools/wordpool_EN.txt	DRESS	6	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1773.082	1.6	1130584	WORD	n/a	wordpools/wordpool_EN.txt	SPOON	7	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1775.566	1.6	1131826	WORD	n/a	wordpools/wordpool_EN.txt	APE	8	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1778.1	1.6	1133093	WORD	n/a	wordpools/wordpool_EN.txt	DESK	9	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1780.483	1.6	1134285	WORD	n/a	wordpools/wordpool_EN.txt	SEAT	10	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1783.068	1.6	1135577	WORD	n/a	wordpools/wordpool_EN.txt	SMILE	11	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1785.618	1.6	1136852	WORD	n/a	wordpools/wordpool_EN.txt	FLAG	12	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1787.235	0.0	1137661	DISTRACT_START	n/a	n/a	n/a	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1787.235	0.016	1137661	START	n/a	n/a	n/a	-999	15	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1787.251	6.185	1137669	PROB	6.154	n/a	n/a	-999	15	[6, 1, 1]	8	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1793.436	5.234	1140762	PROB	5.201	n/a	n/a	-999	15	[8, 7, 5]	20	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1798.67	3.584	1143379	PROB	3.559	n/a	n/a	-999	15	[2, 3, 5]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1802.254	4.435	1145171	PROB	4.399	n/a	n/a	-999	15	[1, 3, 2]	6	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1806.689	4.756	1147388	PROB	4.756	n/a	n/a	-999	15	[1, 9, 9]	19	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1811.445	0.011	1149766	STOP	n/a	n/a	n/a	-999	15	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1811.456	1.05	1149772	DISTRACT_END	n/a	n/a	n/a	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1812.506	0.911	1150297	REC_START	n/a	n/a	n/a	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1813.417	0.702	1150752	REC_WORD	0.911	n/a	SCHOOL	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1814.119	1.252	1151103	REC_WORD	1.613	n/a	TRUCK	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1815.371	0.727	1151729	REC_WORD	2.865	n/a	DESK	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1816.098	2.677	1152093	REC_WORD	3.592	n/a	SEAT	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1818.775	4.795	1153432	REC_WORD	6.269	n/a	APE	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1823.57	1.417	1155829	REC_WORD	11.064	n/a	CHIEF	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1824.987	17.532	1156538	REC_WORD	12.481	n/a	BADGE	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1842.519	9.594	1165304	REC_END	n/a	n/a	n/a	-999	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1852.113	0.0	1170101	TRIAL	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1852.113	10.0	1170101	COUNTDOWN_START	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1862.541	0.007	1175315	COUNTDOWN_END	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1862.548	1.6	1175319	ORIENT	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1864.823	4.6	1176456	STIM_ON	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1865.033	1.6	1176561	WORD	n/a	wordpools/wordpool_EN.txt	MOON	1	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1867.616	1.6	1177853	WORD	n/a	wordpools/wordpool_EN.txt	BEE	2	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1870.199	1.6	1179144	WORD	n/a	wordpools/wordpool_EN.txt	SHIP	3	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1872.701	1.6	1180395	WORD	n/a	wordpools/wordpool_EN.txt	SAIL	4	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1875.107	4.6	1181598	STIM_ON	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1875.317	1.6	1181703	WORD	n/a	wordpools/wordpool_EN.txt	POLE	5	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1877.785	1.6	1182937	WORD	n/a	wordpools/wordpool_EN.txt	EGG	6	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1880.251	1.6	1184171	WORD	n/a	wordpools/wordpool_EN.txt	FORT	7	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1882.753	1.6	1185422	WORD	n/a	wordpools/wordpool_EN.txt	ZOO	8	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1885.038	4.6	1186564	STIM_ON	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1885.252	1.6	1186671	WORD	n/a	wordpools/wordpool_EN.txt	ROCK	9	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1887.652	1.6	1187871	WORD	n/a	wordpools/wordpool_EN.txt	CAT	10	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1890.236	1.6	1189163	WORD	n/a	wordpools/wordpool_EN.txt	SHARK	11	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1892.637	1.6	1190364	WORD	n/a	wordpools/wordpool_EN.txt	FILM	12	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1894.253	0.001	1191172	DISTRACT_START	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1894.254	0.016	1191172	START	n/a	n/a	n/a	-999	16	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1894.27	11.219	1191180	PROB	11.187	n/a	n/a	-999	16	[2, 7, 1]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1905.489	5.419	1196790	PROB	5.398	n/a	n/a	-999	16	[3, 8, 6]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1910.908	3.835	1199500	PROB	3.835	n/a	n/a	-999	16	[8, 3, 1]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1914.743	0.015	1201417	STOP	n/a	n/a	n/a	-999	16	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1914.758	1.051	1201425	DISTRACT_END	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1915.809	0.635	1201950	REC_START	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1916.444	0.952	1202268	REC_WORD	0.635	n/a	SHIP	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1917.396	1.063	1202744	REC_WORD	1.587	n/a	POLE	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1918.459	2.712	1203275	REC_WORD	2.65	n/a	SAIL	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1921.171	24.646	1204631	REC_WORD	5.362	n/a	EGG	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1945.817	8.48	1216955	REC_END	n/a	n/a	n/a	-999	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1954.297	10.0	1221195	COUNTDOWN_START	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1954.298	10.427	1221195	TRIAL	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1964.725	0.009	1226409	COUNTDOWN_END	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1964.734	1.6	1226413	ORIENT	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1967.233	1.6	1227663	WORD	n/a	wordpools/wordpool_EN.txt	HOUSE	1	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1969.685	1.6	1228889	WORD	n/a	wordpools/wordpool_EN.txt	MAZE	2	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1972.029	4.6	1230061	STIM_ON	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1972.234	1.6	1230164	WORD	n/a	wordpools/wordpool_EN.txt	BATH	3	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1974.668	1.6	1231381	WORD	n/a	wordpools/wordpool_EN.txt	SNAKE	4	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1977.218	1.6	1232656	WORD	n/a	wordpools/wordpool_EN.txt	DITCH	5	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1979.803	1.6	1233948	WORD	n/a	wordpools/wordpool_EN.txt	STREET	6	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1982.159	4.6	1235126	STIM_ON	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1982.369	1.6	1235231	WORD	n/a	wordpools/wordpool_EN.txt	MUD	7	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1984.804	1.6	1236449	WORD	n/a	wordpools/wordpool_EN.txt	SWAMP	8	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1987.337	1.6	1237715	WORD	n/a	wordpools/wordpool_EN.txt	VINE	9	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1989.855	1.6	1238974	WORD	n/a	wordpools/wordpool_EN.txt	SKY	10	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1992.226	4.6	1240160	STIM_ON	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1992.437	1.6	1240265	WORD	n/a	wordpools/wordpool_EN.txt	EEL	11	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1995.022	1.6	1241558	WORD	n/a	wordpools/wordpool_EN.txt	STAIR	12	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1996.638	0.001	1242366	DISTRACT_START	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-1996.639	0.016	1242366	START	n/a	n/a	n/a	-999	17	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-1996.655	10.852	1242374	PROB	10.824	n/a	n/a	-999	17	[6, 4, 7]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2007.507	5.568	1247801	PROB	5.536	n/a	n/a	-999	17	[8, 7, 7]	22	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2013.075	5.263	1250585	PROB	5.263	n/a	n/a	-999	17	[7, 5, 2]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2018.338	0.004	1253216	STOP	n/a	n/a	n/a	-999	17	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2018.342	1.118	1253218	DISTRACT_END	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2019.46	0.853	1253777	REC_START	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2020.313	1.06	1254204	REC_WORD	0.853	n/a	SNAKE	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2021.373	1.36	1254734	REC_WORD	1.913	n/a	DITCH	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2022.733	1.154	1255414	REC_WORD	3.273	n/a	STREAM	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2023.887	12.15	1255991	REC_WORD	4.427	n/a	EEL	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2036.037	0.704	1262066	REC_WORD	16.577	n/a	HOUSE	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2036.741	12.727	1262418	REC_WORD	17.281	n/a	STAIR	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2049.468	3.763	1268782	REC_END	n/a	n/a	n/a	-999	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2053.231	10.0	1270663	COUNTDOWN_START	n/a	n/a	n/a	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2053.232	10.427	1270664	TRIAL	n/a	n/a	n/a	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2063.659	0.008	1275877	COUNTDOWN_END	n/a	n/a	n/a	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2063.667	1.6	1275881	ORIENT	n/a	n/a	n/a	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2066.134	1.6	1277115	WORD	n/a	wordpools/wordpool_EN.txt	FOX	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2068.534	1.6	1278315	WORD	n/a	wordpools/wordpool_EN.txt	TENT	2	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2071.069	1.6	1279583	WORD	n/a	wordpools/wordpool_EN.txt	PIE	3	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2073.485	1.6	1280791	WORD	n/a	wordpools/wordpool_EN.txt	CAVE	4	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2076.07	1.6	1282083	WORD	n/a	wordpools/wordpool_EN.txt	SOUP	5	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2078.503	1.6	1283300	WORD	n/a	wordpools/wordpool_EN.txt	STICK	6	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2081.004	1.6	1284550	WORD	n/a	wordpools/wordpool_EN.txt	MOOSE	7	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2083.52	1.6	1285808	WORD	n/a	wordpools/wordpool_EN.txt	SKUNK	8	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2086.121	1.6	1287109	WORD	n/a	wordpools/wordpool_EN.txt	SEAL	9	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2088.521	1.6	1288309	WORD	n/a	wordpools/wordpool_EN.txt	BREAD	10	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2090.906	1.6	1289501	WORD	n/a	wordpools/wordpool_EN.txt	GATE	11	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2093.438	1.6	1290767	WORD	n/a	wordpools/wordpool_EN.txt	TAIL	12	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2095.04	0.0	1291568	DISTRACT_START	n/a	n/a	n/a	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2095.04	0.017	1291568	START	n/a	n/a	n/a	-999	18	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2095.057	7.533	1291577	PROB	7.501	n/a	n/a	-999	18	[4, 8, 5]	17	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2102.59	7.652	1295344	PROB	7.616	n/a	n/a	-999	18	[7, 3, 6]	16	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2110.242	5.3	1299170	PROB	5.3	n/a	n/a	-999	18	[2, 4, 4]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2115.542	0.017	1301820	STOP	n/a	n/a	n/a	-999	18	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2115.559	1.202	1301828	DISTRACT_END	n/a	n/a	n/a	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2116.761	0.898	1302429	REC_START	n/a	n/a	n/a	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2117.659	1.098	1302878	REC_WORD	0.898	n/a	FOX	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2118.757	1.622	1303427	REC_WORD	1.996	n/a	TENT	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2120.379	1.131	1304238	REC_WORD	3.618	n/a	MOOSE	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2121.51	25.258	1304804	REC_WORD	4.749	n/a	CAVE	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2146.768	8.531	1317433	REC_END	n/a	n/a	n/a	-999	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2155.299	10.0	1321699	COUNTDOWN_START	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2155.3	10.427	1321699	TRIAL	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2165.727	0.009	1326913	COUNTDOWN_END	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2165.736	1.6	1326918	ORIENT	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2168.218	1.6	1328159	WORD	n/a	wordpools/wordpool_EN.txt	FOG	1	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2170.77	1.6	1329435	WORD	n/a	wordpools/wordpool_EN.txt	BED	2	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2173.018	4.6	1330559	STIM_ON	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2173.219	1.6	1330659	WORD	n/a	wordpools/wordpool_EN.txt	GEESE	3	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2175.704	1.6	1331902	WORD	n/a	wordpools/wordpool_EN.txt	COW	4	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2178.187	1.6	1333143	WORD	n/a	wordpools/wordpool_EN.txt	BOARD	5	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2180.738	1.6	1334419	WORD	n/a	wordpools/wordpool_EN.txt	BRIDGE	6	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2183.016	4.6	1335558	STIM_ON	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2183.221	1.6	1335660	WORD	n/a	wordpools/wordpool_EN.txt	BOAT	7	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2185.654	1.6	1336877	WORD	n/a	wordpools/wordpool_EN.txt	SLUSH	8	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2188.189	1.6	1338145	WORD	n/a	wordpools/wordpool_EN.txt	VAN	9	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2190.773	1.6	1339437	WORD	n/a	wordpools/wordpool_EN.txt	GUARD	10	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2193.075	4.6	1340588	STIM_ON	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2193.289	1.6	1340695	WORD	n/a	wordpools/wordpool_EN.txt	LAMB	11	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2195.824	1.6	1341962	WORD	n/a	wordpools/wordpool_EN.txt	STOVE	12	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2197.44	0.001	1342770	DISTRACT_START	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2197.441	0.016	1342771	START	n/a	n/a	n/a	-999	19	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2197.457	11.57	1342779	PROB	11.534	n/a	n/a	-999	19	[2, 8, 9]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2209.027	11.729	1348564	PROB	11.729	n/a	n/a	-999	19	[7, 4, 2]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2220.756	0.006	1354429	STOP	n/a	n/a	n/a	-999	19	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2220.762	1.051	1354432	DISTRACT_END	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2221.813	4.619	1354957	REC_START	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2226.432	1.266	1357267	REC_WORD	4.619	n/a	BED	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2227.698	3.114	1357900	REC_WORD	5.885	n/a	BOARD	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2230.812	21.009	1359457	REC_WORD	8.999	n/a	CAVE	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2251.821	195.446	1369962	REC_END	n/a	n/a	n/a	-999	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2447.267	10.0	1467688	COUNTDOWN_START	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2447.268	10.427	1467688	TRIAL	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2457.695	0.008	1472902	COUNTDOWN_END	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2457.703	1.6	1472906	ORIENT	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2460.076	4.6	1474092	STIM_ON	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2460.286	1.6	1474197	WORD	n/a	wordpools/wordpool_EN.txt	ARM	1	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2462.854	1.6	1475481	WORD	n/a	wordpools/wordpool_EN.txt	VASE	2	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2465.471	1.6	1476790	WORD	n/a	wordpools/wordpool_EN.txt	TRAY	3	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2467.939	1.6	1478024	WORD	n/a	wordpools/wordpool_EN.txt	BAG	4	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2470.291	4.6	1479200	STIM_ON	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2470.505	1.6	1479307	WORD	n/a	wordpools/wordpool_EN.txt	DOLL	5	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2473.023	1.6	1480566	WORD	n/a	wordpools/wordpool_EN.txt	BALL	6	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2475.639	1.6	1481874	WORD	n/a	wordpools/wordpool_EN.txt	SOCK	7	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2478.024	1.6	1483067	WORD	n/a	wordpools/wordpool_EN.txt	PEAR	8	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2480.198	4.6	1484154	STIM_ON	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2480.406	1.6	1484258	WORD	n/a	wordpools/wordpool_EN.txt	FOOT	9	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2482.958	1.6	1485534	WORD	n/a	wordpools/wordpool_EN.txt	CANE	10	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2485.457	1.6	1486783	WORD	n/a	wordpools/wordpool_EN.txt	STRING	11	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2487.975	1.6	1488042	WORD	n/a	wordpools/wordpool_EN.txt	OAR	12	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2489.591	0.001	1488850	DISTRACT_START	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2489.592	0.016	1488851	START	n/a	n/a	n/a	-999	20	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2489.608	7.386	1488859	PROB	7.357	n/a	n/a	-999	20	[7, 3, 4]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2496.994	4.867	1492552	PROB	4.844	n/a	n/a	-999	20	[6, 1, 9]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2501.861	7.001	1494986	PROB	6.977	n/a	n/a	-999	20	[9, 5, 4]	20	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2508.862	4.144	1498486	PROB	4.144	n/a	n/a	-999	20	[5, 7, 3]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2513.006	0.007	1500558	STOP	n/a	n/a	n/a	-999	20	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2513.013	1.167	1500562	DISTRACT_END	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2514.18	0.591	1501145	REC_START	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2514.771	0.627	1501441	REC_WORD	0.591	n/a	BALL	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2515.398	0.991	1501754	REC_WORD	1.218	n/a	SOCK	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2516.389	0.643	1502250	REC_WORD	2.209	n/a	PEAR	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2517.032	0.821	1502571	REC_WORD	2.852	n/a	FOOT	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2517.853	26.335	1502982	REC_WORD	3.673	n/a	OAR	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2544.188	48.021	1516150	REC_END	n/a	n/a	n/a	-999	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2592.209	10.0	1540161	COUNTDOWN_START	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2592.21	10.427	1540162	TRIAL	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2602.637	0.008	1545375	COUNTDOWN_END	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2602.645	1.6	1545379	ORIENT	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2604.961	4.6	1546537	STIM_ON	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2605.178	1.6	1546646	WORD	n/a	wordpools/wordpool_EN.txt	PIT	1	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2607.763	1.6	1547938	WORD	n/a	wordpools/wordpool_EN.txt	HILL	2	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2610.363	1.6	1549238	WORD	n/a	wordpools/wordpool_EN.txt	BROOM	3	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2612.814	1.6	1550464	WORD	n/a	wordpools/wordpool_EN.txt	ARK	4	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2615.042	4.6	1551578	STIM_ON	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2615.247	1.6	1551680	WORD	n/a	wordpools/wordpool_EN.txt	STRAW	5	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2617.815	1.6	1552964	WORD	n/a	wordpools/wordpool_EN.txt	STONE	6	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2620.281	1.6	1554198	WORD	n/a	wordpools/wordpool_EN.txt	TREE	7	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2622.849	1.6	1555482	WORD	n/a	wordpools/wordpool_EN.txt	SNOW	8	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2625.023	4.6	1556569	STIM_ON	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2625.232	1.6	1556673	WORD	n/a	wordpools/wordpool_EN.txt	OAK	9	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2627.649	1.6	1557882	WORD	n/a	wordpools/wordpool_EN.txt	FACE	10	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2630.216	1.6	1559165	WORD	n/a	wordpools/wordpool_EN.txt	NEST	11	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2632.684	1.6	1560399	WORD	n/a	wordpools/wordpool_EN.txt	LAWN	12	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2634.3	0.001	1561207	DISTRACT_START	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2634.301	0.016	1561208	START	n/a	n/a	n/a	-999	21	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2634.317	13.586	1561216	PROB	13.552	n/a	n/a	-999	21	[7, 6, 3]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2647.903	18.406	1568009	PROB	18.406	n/a	n/a	-999	21	[9, 7, 6]	22	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2666.309	0.013	1577212	STOP	n/a	n/a	n/a	-999	21	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2666.322	1.118	1577219	DISTRACT_END	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2667.44	1.565	1577778	REC_START	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2669.005	1.355	1578560	REC_WORD	1.565	n/a	PIT	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2670.36	1.673	1579238	REC_WORD	2.92	n/a	BROOM	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2672.033	1.057	1580074	REC_WORD	4.593	n/a	STRAW	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2673.09	24.358	1580603	REC_WORD	5.65	n/a	ARK	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2697.448	5.714	1592782	REC_END	n/a	n/a	n/a	-999	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2703.162	0.0	1595639	TRIAL	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2703.162	10.0	1595639	COUNTDOWN_START	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2713.59	0.007	1600854	COUNTDOWN_END	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2713.597	1.6	1600857	ORIENT	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2716.131	1.6	1602124	WORD	n/a	wordpools/wordpool_EN.txt	ROOF	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2718.632	1.6	1603375	WORD	n/a	wordpools/wordpool_EN.txt	POND	2	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2720.992	4.6	1604555	STIM_ON	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2721.199	1.6	1604658	WORD	n/a	wordpools/wordpool_EN.txt	RICE	3	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2723.767	1.6	1605942	WORD	n/a	wordpools/wordpool_EN.txt	BLUSH	4	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2726.233	1.6	1607175	WORD	n/a	wordpools/wordpool_EN.txt	GLASS	5	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2728.851	1.6	1608484	WORD	n/a	wordpools/wordpool_EN.txt	SNAIL	6	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2731.181	4.6	1609649	STIM_ON	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2731.384	1.6	1609751	WORD	n/a	wordpools/wordpool_EN.txt	FOOD	7	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2733.952	1.6	1611035	WORD	n/a	wordpools/wordpool_EN.txt	HOOK	8	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2736.385	1.6	1612251	WORD	n/a	wordpools/wordpool_EN.txt	MILK	9	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2738.853	1.6	1613485	WORD	n/a	wordpools/wordpool_EN.txt	TOAD	10	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2741.23	4.6	1614674	STIM_ON	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2741.436	1.6	1614777	WORD	n/a	wordpools/wordpool_EN.txt	JAR	11	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2743.837	1.6	1615978	WORD	n/a	wordpools/wordpool_EN.txt	SUN	12	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2745.453	0.001	1616786	DISTRACT_START	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2745.454	0.016	1616786	START	n/a	n/a	n/a	-999	22	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2745.47	12.185	1616794	PROB	12.155	n/a	n/a	-999	22	[5, 6, 5]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2757.655	4.352	1622887	PROB	4.331	n/a	n/a	-999	22	[4, 7, 7]	18	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2762.007	5.067	1625063	PROB	5.067	n/a	n/a	-999	22	[8, 3, 4]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2767.074	0.016	1627596	STOP	n/a	n/a	n/a	-999	22	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2767.09	1.051	1627604	DISTRACT_END	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2768.141	0.936	1628130	REC_START	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2769.077	0.864	1628598	REC_WORD	0.936	n/a	JAR	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2769.941	2.363	1629030	REC_WORD	1.8	n/a	RICE	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2772.304	1.415	1630211	REC_WORD	4.163	n/a	FOOD	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2773.719	1.428	1630919	REC_WORD	5.578	n/a	SAND	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2775.147	7.863	1631633	REC_WORD	7.006	n/a	SUN	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2783.01	11.132	1635565	REC_WORD	14.869	n/a	TOAD	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2794.142	4.007	1641131	REC_WORD	26.001	n/a	POND	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2798.149	3.064	1643134	REC_END	n/a	n/a	n/a	-999	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2801.213	0.0	1644666	TRIAL	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2801.213	10.0	1644666	COUNTDOWN_START	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2811.641	0.007	1649881	COUNTDOWN_END	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2811.648	1.6	1649884	ORIENT	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2813.951	4.6	1651036	STIM_ON	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2814.165	1.6	1651143	WORD	n/a	wordpools/wordpool_EN.txt	INK	1	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2816.733	1.6	1652427	WORD	n/a	wordpools/wordpool_EN.txt	TEA	2	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2819.266	1.6	1653693	WORD	n/a	wordpools/wordpool_EN.txt	TOY	3	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2821.666	1.6	1654893	WORD	n/a	wordpools/wordpool_EN.txt	MULE	4	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2824.004	4.6	1656062	STIM_ON	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2824.217	1.6	1656169	WORD	n/a	wordpools/wordpool_EN.txt	BOY	5	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2826.617	1.6	1657369	WORD	n/a	wordpools/wordpool_EN.txt	TIE	6	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2829.052	1.6	1658586	WORD	n/a	wordpools/wordpool_EN.txt	CLOTH	7	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2831.551	1.6	1659836	WORD	n/a	wordpools/wordpool_EN.txt	SPRING	8	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2833.931	4.6	1661026	STIM_ON	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2834.135	1.6	1661128	WORD	n/a	wordpools/wordpool_EN.txt	SQUARE	9	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2836.669	1.6	1662395	WORD	n/a	wordpools/wordpool_EN.txt	PEACH	10	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2839.054	1.6	1663588	WORD	n/a	wordpools/wordpool_EN.txt	TOOL	11	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2841.52	1.6	1664821	WORD	n/a	wordpools/wordpool_EN.txt	PLATE	12	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2843.137	0.0	1665629	DISTRACT_START	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2843.137	0.016	1665629	START	n/a	n/a	n/a	-999	23	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2843.153	11.436	1665637	PROB	11.4	n/a	n/a	-999	23	[6, 4, 4]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2854.589	4.0	1671355	PROB	3.972	n/a	n/a	-999	23	[6, 4, 8]	18	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2858.589	2.834	1673355	PROB	2.812	n/a	n/a	-999	23	[2, 5, 5]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2861.423	3.571	1674772	PROB	3.571	n/a	n/a	-999	23	[3, 1, 8]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2864.994	0.014	1676558	STOP	n/a	n/a	n/a	-999	23	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2865.008	1.117	1676565	DISTRACT_END	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2866.125	0.572	1677123	REC_START	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2866.697	1.216	1677409	REC_WORD	0.572	n/a	BOY	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2867.913	1.368	1678018	REC_WORD	1.788	n/a	TIE	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2869.281	2.195	1678702	REC_WORD	3.156	n/a	CLOTH	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2871.476	24.657	1679799	REC_WORD	5.351	n/a	PLATE	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2896.133	25.001	1692128	REC_END	n/a	n/a	n/a	-999	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2921.134	10.0	1704629	COUNTDOWN_START	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2921.134	10.428	1704629	TRIAL	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2931.562	0.007	1709843	COUNTDOWN_END	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2931.569	1.6	1709847	ORIENT	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2933.81	4.6	1710967	STIM_ON	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2934.02	1.6	1711072	WORD	n/a	wordpools/wordpool_EN.txt	MAP	1	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2936.57	1.6	1712347	WORD	n/a	wordpools/wordpool_EN.txt	CORN	2	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2939.071	1.6	1713598	WORD	n/a	wordpools/wordpool_EN.txt	ROSE	3	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2941.654	1.6	1714889	WORD	n/a	wordpools/wordpool_EN.txt	ELF	4	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2943.979	4.6	1716052	STIM_ON	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2944.188	1.6	1716156	WORD	n/a	wordpools/wordpool_EN.txt	CAPE	5	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2946.638	1.6	1717381	WORD	n/a	wordpools/wordpool_EN.txt	NET	6	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2949.105	1.6	1718615	WORD	n/a	wordpools/wordpool_EN.txt	SEA	7	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2951.589	1.6	1719857	WORD	n/a	wordpools/wordpool_EN.txt	SHEET	8	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2953.863	4.6	1720994	STIM_ON	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2954.074	1.6	1721099	WORD	n/a	wordpools/wordpool_EN.txt	GOLD	9	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2956.457	1.6	1722291	WORD	n/a	wordpools/wordpool_EN.txt	CLAY	10	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-2959.008	1.6	1723566	WORD	n/a	wordpools/wordpool_EN.txt	PEARL	11	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2961.458	1.6	1724792	WORD	n/a	wordpools/wordpool_EN.txt	COIN	12	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2963.075	0.001	1725600	DISTRACT_START	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2963.076	0.015	1725601	START	n/a	n/a	n/a	-999	24	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2963.091	17.854	1725608	PROB	17.829	n/a	n/a	-999	24	[3, 2, 5]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2980.945	5.959	1734535	PROB	5.959	n/a	n/a	-999	24	[6, 5, 6]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2986.904	0.009	1737515	STOP	n/a	n/a	n/a	-999	24	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2986.913	1.151	1737519	DISTRACT_END	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2988.064	2.171	1738095	REC_START	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2990.235	0.934	1739180	REC_WORD	2.171	n/a	SHEET	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2991.169	1.173	1739648	REC_WORD	3.105	n/a	CLAY	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2992.342	1.635	1740234	REC_WORD	4.278	n/a	ELF	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2993.977	2.023	1741052	REC_WORD	5.913	n/a	GOLD	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2996.0	1.747	1742063	REC_WORD	7.936	n/a	COIN	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-2997.747	20.325	1742937	REC_WORD	9.683	n/a	PEARL	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3018.072	29.067	1753099	REC_END	n/a	n/a	n/a	-999	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3047.139	0.0	1767633	TRIAL	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3047.139	10.0	1767633	COUNTDOWN_START	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3057.567	0.007	1772848	COUNTDOWN_END	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3057.574	1.6	1772851	ORIENT	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3059.779	4.6	1773954	STIM_ON	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3059.992	1.6	1774060	WORD	n/a	wordpools/wordpool_EN.txt	NAIL	1	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3062.442	1.6	1775285	WORD	n/a	wordpools/wordpool_EN.txt	JAIL	2	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3064.86	1.6	1776494	WORD	n/a	wordpools/wordpool_EN.txt	HOSE	3	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3067.343	1.6	1777736	WORD	n/a	wordpools/wordpool_EN.txt	SKI	4	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3069.716	4.6	1778922	STIM_ON	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3069.928	1.6	1779028	WORD	n/a	wordpools/wordpool_EN.txt	DOCK	5	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3072.31	1.6	1780219	WORD	n/a	wordpools/wordpool_EN.txt	BOMB	6	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3074.895	1.6	1781512	WORD	n/a	wordpools/wordpool_EN.txt	HOOF	7	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3077.311	1.6	1782720	WORD	n/a	wordpools/wordpool_EN.txt	KEY	8	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3079.522	4.6	1783825	STIM_ON	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3079.746	1.6	1783937	WORD	n/a	wordpools/wordpool_EN.txt	LAND	9	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3082.362	1.6	1785245	WORD	n/a	wordpools/wordpool_EN.txt	BOOT	10	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
-3084.813	1.6	1786471	WORD	n/a	wordpools/wordpool_EN.txt	LAKE	11	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3087.363	1.6	1787746	WORD	n/a	wordpools/wordpool_EN.txt	BOOK	12	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3088.981	0.001	1788555	DISTRACT_START	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3088.982	0.016	1788556	START	n/a	n/a	n/a	-999	25	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3088.998	11.117	1788564	PROB	11.084	n/a	n/a	-999	25	[4, 8, 5]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3100.115	4.251	1794122	PROB	4.215	n/a	n/a	-999	25	[9, 8, 6]	23	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3104.366	5.335	1796248	PROB	5.335	n/a	n/a	-999	25	[1, 2, 4]	7	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3109.701	0.017	1798915	STOP	n/a	n/a	n/a	-999	25	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3109.718	1.184	1798924	DISTRACT_END	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3110.902	0.746	1799516	REC_START	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3111.648	1.005	1799889	REC_WORD	0.746	n/a	NAIL	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3112.653	2.487	1800391	REC_WORD	1.751	n/a	JAIL	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3115.14	1.696	1801635	REC_WORD	4.238	n/a	KEY	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3116.836	24.073	1802483	REC_WORD	5.934	n/a	BOOT	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3140.909	27.368	1814520	REC_END	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
-3168.277	0.0	1828204	SESS_END	n/a	n/a	n/a	-999	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+onset	duration	sample	trial_type	response_time	stim_file	item_name	serialpos	recalled	list	test	answer	stimulation	stim_list	stim_duration	anode_label	cathode_label	amplitude	pulse_freq	n_pulses	pulse_width	experiment	session	subject
+0.0	65.868	244015	SESS_START	n/a	n/a	n/a	-999	0	-999	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+65.868	10.0	276950	COUNTDOWN_START	n/a	n/a	n/a	-999	0	-999	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+76.296	3.724	282164	COUNTDOWN_END	n/a	n/a	n/a	-999	0	-999	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+80.02	1.6	284026	PRACTICE_WORD	n/a	n/a	RING	1	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+82.47	1.6	285251	PRACTICE_WORD	n/a	n/a	CAMEL	2	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+84.938	1.6	286485	PRACTICE_WORD	n/a	n/a	WAGON	3	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+87.32	1.6	287676	PRACTICE_WORD	n/a	n/a	WATCH	4	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+89.722	1.6	288877	PRACTICE_WORD	n/a	n/a	COTTON	5	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+92.338	1.6	290185	PRACTICE_WORD	n/a	n/a	CHEST	6	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+94.739	1.6	291386	PRACTICE_WORD	n/a	n/a	IRON	7	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+97.322	1.6	292677	PRACTICE_WORD	n/a	n/a	RHINO	8	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+99.69	1.6	293861	PRACTICE_WORD	n/a	n/a	BEAM	9	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+102.19	1.6	295111	PRACTICE_WORD	n/a	n/a	TONGUE	10	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+104.691	1.6	296362	PRACTICE_WORD	n/a	n/a	FLOOD	11	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+107.291	1.6	297662	PRACTICE_WORD	n/a	n/a	ATTIC	12	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+108.908	0.001	298470	PRACTICE_DISTRACT_START	n/a	n/a	n/a	-999	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+108.909	0.016	298471	START	n/a	n/a	n/a	-999	0	-1	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+108.925	6.034	298479	PROB	6.011	n/a	n/a	-999	0	-1	[6, 6, 4]	16	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+114.959	4.384	301496	PROB	4.36	n/a	n/a	-999	0	-1	[4, 1, 8]	13	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+119.343	7.318	303688	PROB	7.291	n/a	n/a	-999	0	-1	[3, 8, 4]	15	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+126.661	4.517	307347	PROB	4.517	n/a	n/a	-999	0	-1	[6, 1, 2]	9	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+131.178	0.017	309606	STOP	n/a	n/a	n/a	-999	0	-1	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+131.195	0.569	309614	PRACTICE_DISTRACT_END	n/a	n/a	n/a	-999	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+131.764	30.514	309899	PRACTICE_REC_START	n/a	n/a	n/a	-999	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+162.278	20.242	325156	PRACTICE_REC_END	n/a	n/a	n/a	-999	0	-1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+182.52	0.0	335278	TRIAL	n/a	n/a	n/a	-999	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+182.52	10.0	335278	COUNTDOWN_START	n/a	n/a	n/a	-999	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+192.948	0.009	340492	COUNTDOWN_END	n/a	n/a	n/a	-999	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+192.957	1.6	340496	ORIENT	n/a	n/a	n/a	-999	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+195.556	1.6	341796	WORD	n/a	wordpools/wordpool_EN.txt	RAKE	1	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+198.041	1.6	343038	WORD	n/a	wordpools/wordpool_EN.txt	TEETH	2	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+200.473	1.6	344254	WORD	n/a	wordpools/wordpool_EN.txt	CROWN	3	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+203.058	1.6	345547	WORD	n/a	wordpools/wordpool_EN.txt	BEAR	4	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+205.641	1.6	346838	WORD	n/a	wordpools/wordpool_EN.txt	FISH	5	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+208.258	1.6	348147	WORD	n/a	wordpools/wordpool_EN.txt	BIRD	6	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+210.86	1.6	349448	WORD	n/a	wordpools/wordpool_EN.txt	DUCK	7	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+213.376	1.6	350706	WORD	n/a	wordpools/wordpool_EN.txt	SHRIMP	8	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+215.927	1.6	351982	WORD	n/a	wordpools/wordpool_EN.txt	DEER	9	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+218.376	1.6	353206	WORD	n/a	wordpools/wordpool_EN.txt	FRUIT	10	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+220.895	1.6	354466	WORD	n/a	wordpools/wordpool_EN.txt	RIB	11	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+223.311	1.6	355674	WORD	n/a	wordpools/wordpool_EN.txt	WORM	12	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+224.929	0.0	356483	DISTRACT_START	n/a	n/a	n/a	-999	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+224.929	0.016	356483	START	n/a	n/a	n/a	-999	0	1	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+224.945	4.684	356491	PROB	4.659	n/a	n/a	-999	0	1	[3, 3, 3]	15	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+229.629	6.484	358833	PROB	6.458	n/a	n/a	-999	0	1	[1, 3, 9]	13	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+236.113	5.234	362075	PROB	5.198	n/a	n/a	-999	0	1	[8, 4, 9]	21	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+241.347	4.076	364692	PROB	4.076	n/a	n/a	-999	0	1	[2, 4, 4]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+245.423	0.008	366730	STOP	n/a	n/a	n/a	-999	0	1	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+245.431	1.04	366734	DISTRACT_END	n/a	n/a	n/a	-999	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+246.471	0.598	367254	REC_START	n/a	n/a	n/a	-999	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+247.069	1.013	367553	REC_WORD	0.598	n/a	BEAR	4	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+248.082	0.844	368060	REC_WORD	1.611	n/a	BIRD	6	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+248.926	1.073	368482	REC_WORD	2.455	n/a	FISH	5	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+249.999	0.628	369018	REC_WORD	3.528	n/a	DUCK	7	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+250.627	1.626	369332	REC_WORD	4.156	n/a	SHRIMP	8	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+252.253	0.946	370145	REC_WORD	5.782	n/a	DEER	9	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+253.199	1.697	370618	REC_WORD	6.728	n/a	RIB	11	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+254.896	0.797	371467	REC_WORD	8.425	n/a	RAKE	1	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+255.693	20.78	371865	REC_WORD	9.222	n/a	TEETH	2	1	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+276.473	8.416	382256	REC_END	n/a	n/a	n/a	-999	0	1	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+284.889	0.0	386464	TRIAL	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+284.889	10.0	386464	COUNTDOWN_START	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+295.317	0.006	391678	COUNTDOWN_END	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+295.323	1.6	391681	ORIENT	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+297.775	1.6	392907	WORD	n/a	wordpools/wordpool_EN.txt	BOX	1	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+300.291	1.6	394165	WORD	n/a	wordpools/wordpool_EN.txt	DOOR	2	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+302.522	4.6	395280	STIM_ON	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+302.726	1.6	395382	WORD	n/a	wordpools/wordpool_EN.txt	COUCH	3	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+305.258	1.6	396648	WORD	n/a	wordpools/wordpool_EN.txt	SLEEVE	4	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+307.727	1.6	397883	WORD	n/a	wordpools/wordpool_EN.txt	PASTE	5	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+310.176	1.6	399108	WORD	n/a	wordpools/wordpool_EN.txt	CHALK	6	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+312.342	4.6	400191	STIM_ON	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+312.56	1.6	400300	WORD	n/a	wordpools/wordpool_EN.txt	CAGE	7	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+315.077	1.6	401558	WORD	n/a	wordpools/wordpool_EN.txt	CUP	8	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+317.627	1.6	402833	WORD	n/a	wordpools/wordpool_EN.txt	LEG	9	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+320.062	1.6	404051	WORD	n/a	wordpools/wordpool_EN.txt	CART	10	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+322.423	4.6	405231	STIM_ON	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+322.628	1.6	405334	WORD	n/a	wordpools/wordpool_EN.txt	STOOL	11	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+325.013	1.6	406526	WORD	n/a	wordpools/wordpool_EN.txt	DART	12	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+326.629	0.001	407334	DISTRACT_START	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+326.63	0.016	407335	START	n/a	n/a	n/a	-999	0	2	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+326.646	7.884	407343	PROB	7.849	n/a	n/a	-999	0	2	[6, 3, 8]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+334.53	7.302	411285	PROB	7.27	n/a	n/a	-999	0	2	[4, 8, 4]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+341.832	3.034	414936	PROB	3.0	n/a	n/a	-999	0	2	[2, 4, 1]	7	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+344.866	3.789	416453	PROB	3.789	n/a	n/a	-999	0	2	[1, 1, 9]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+348.655	0.011	418348	STOP	n/a	n/a	n/a	-999	0	2	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+348.666	1.152	418353	DISTRACT_END	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+349.818	1.492	418929	REC_START	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+351.31	0.919	419675	REC_WORD	1.492	n/a	CART	10	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+352.229	2.164	420135	REC_WORD	2.411	n/a	LEG	9	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+354.393	17.196	421217	REC_WORD	4.575	n/a	CHAIR	-999	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+371.589	2.637	429815	REC_WORD	21.771	n/a	DOOR	2	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+374.226	0.605	431134	REC_WORD	24.408	n/a	CHALK	6	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+374.831	4.995	431436	REC_WORD	25.013	n/a	PASTE	5	1	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+379.826	15.032	433934	REC_END	n/a	n/a	n/a	-999	0	2	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+394.858	10.0	441450	COUNTDOWN_START	n/a	n/a	n/a	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+394.859	10.427	441450	TRIAL	n/a	n/a	n/a	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+405.286	0.007	446664	COUNTDOWN_END	n/a	n/a	n/a	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+405.293	1.6	446668	ORIENT	n/a	n/a	n/a	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+407.676	1.6	447859	WORD	n/a	wordpools/wordpool_EN.txt	BLOOM	1	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+410.127	1.6	449085	WORD	n/a	wordpools/wordpool_EN.txt	BARN	2	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+412.527	1.6	450285	WORD	n/a	wordpools/wordpool_EN.txt	PEN	3	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+415.078	1.6	451560	WORD	n/a	wordpools/wordpool_EN.txt	WHEEL	4	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+417.696	1.6	452869	WORD	n/a	wordpools/wordpool_EN.txt	BRICK	5	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+420.295	1.6	454169	WORD	n/a	wordpools/wordpool_EN.txt	SALT	6	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+422.813	1.6	455428	WORD	n/a	wordpools/wordpool_EN.txt	MOLE	7	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+425.363	1.6	456703	WORD	n/a	wordpools/wordpool_EN.txt	MOTH	8	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+427.831	1.6	457937	WORD	n/a	wordpools/wordpool_EN.txt	DOG	9	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+430.28	1.6	459162	WORD	n/a	wordpools/wordpool_EN.txt	FLEA	10	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+432.865	1.6	460454	WORD	n/a	wordpools/wordpool_EN.txt	STEAM	11	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+435.415	1.6	461729	WORD	n/a	wordpools/wordpool_EN.txt	KITE	12	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+437.033	0.0	462538	DISTRACT_START	n/a	n/a	n/a	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+437.033	0.016	462538	START	n/a	n/a	n/a	-999	0	3	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+437.049	8.868	462546	PROB	8.835	n/a	n/a	-999	0	3	[4, 5, 6]	15	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+445.917	6.835	466980	PROB	6.815	n/a	n/a	-999	0	3	[5, 2, 4]	11	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+452.752	5.635	470398	PROB	5.635	n/a	n/a	-999	0	3	[7, 6, 2]	15	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+458.387	0.015	473215	STOP	n/a	n/a	n/a	-999	0	3	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+458.402	1.101	473223	DISTRACT_END	n/a	n/a	n/a	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+459.503	0.942	473773	REC_START	n/a	n/a	n/a	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+460.445	1.243	474245	REC_WORD	0.942	n/a	MOLE	7	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+461.688	0.89	474866	REC_WORD	2.185	n/a	DOG	9	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+462.578	1.756	475311	REC_WORD	3.075	n/a	FLEA	10	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+464.334	1.011	476189	REC_WORD	4.831	n/a	BARN	2	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+465.345	3.9	476695	REC_WORD	5.842	n/a	PEN	3	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+469.245	13.676	478645	REC_WORD	9.742	n/a	CAGE	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+482.921	6.589	485483	REC_WORD	23.418	n/a	MOTH	8	1	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+489.51	6.45	488777	REC_END	n/a	n/a	n/a	-999	0	3	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+495.96	0.0	492003	TRIAL	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+495.96	10.0	492003	COUNTDOWN_START	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+506.388	0.006	497217	COUNTDOWN_END	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+506.394	1.6	497220	ORIENT	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+508.74	4.6	498393	STIM_ON	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+508.945	1.6	498495	WORD	n/a	wordpools/wordpool_EN.txt	CLOCK	1	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+511.395	1.6	499720	WORD	n/a	wordpools/wordpool_EN.txt	FENCE	2	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+513.896	1.6	500971	WORD	n/a	wordpools/wordpool_EN.txt	WEED	3	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+516.462	1.6	502254	WORD	n/a	wordpools/wordpool_EN.txt	BENCH	4	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+518.862	4.6	503454	STIM_ON	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+519.079	1.6	503562	WORD	n/a	wordpools/wordpool_EN.txt	WALL	5	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+521.48	1.6	504763	WORD	n/a	wordpools/wordpool_EN.txt	BAND	6	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+524.08	1.6	506063	WORD	n/a	wordpools/wordpool_EN.txt	TOE	7	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+526.614	1.6	507330	WORD	n/a	wordpools/wordpool_EN.txt	HORN	8	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+529.023	4.6	508535	STIM_ON	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+529.231	1.6	508639	WORD	n/a	wordpools/wordpool_EN.txt	HAWK	9	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+531.816	1.6	509931	WORD	n/a	wordpools/wordpool_EN.txt	NOSE	10	0	4	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+534.365	1.6	511206	WORD	n/a	wordpools/wordpool_EN.txt	CLIFF	11	1	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+536.95	1.6	512498	WORD	n/a	wordpools/wordpool_EN.txt	HAND	12	1	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+538.566	0.001	513306	DISTRACT_START	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+538.567	0.016	513307	START	n/a	n/a	n/a	-999	0	4	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+538.583	5.884	513315	PROB	5.852	n/a	n/a	-999	0	4	[8, 9, 6]	23	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+544.467	2.65	516257	PROB	2.616	n/a	n/a	-999	0	4	[5, 1, 6]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+547.117	5.485	517582	PROB	5.454	n/a	n/a	-999	0	4	[9, 8, 2]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+552.602	3.201	520325	PROB	3.178	n/a	n/a	-999	0	4	[5, 3, 3]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+555.803	4.304	521925	PROB	4.304	n/a	n/a	-999	0	4	[4, 7, 4]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+560.107	0.013	524077	STOP	n/a	n/a	n/a	-999	0	4	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+560.12	1.217	524084	DISTRACT_END	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+561.337	0.547	524692	REC_START	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+561.884	1.108	524966	REC_WORD	0.547	n/a	CLIFF	11	1	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+562.992	28.353	525520	REC_WORD	1.655	n/a	HAND	12	1	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+591.345	19.184	539697	REC_END	n/a	n/a	n/a	-999	0	4	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+610.529	0.0	549289	TRIAL	n/a	n/a	n/a	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+610.529	10.0	549289	COUNTDOWN_START	n/a	n/a	n/a	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+620.957	0.008	554503	COUNTDOWN_END	n/a	n/a	n/a	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+620.965	1.6	554507	ORIENT	n/a	n/a	n/a	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+623.498	1.6	555774	WORD	n/a	wordpools/wordpool_EN.txt	AXE	1	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+626.114	1.6	557082	WORD	n/a	wordpools/wordpool_EN.txt	OWL	2	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+628.615	1.6	558332	WORD	n/a	wordpools/wordpool_EN.txt	GOAT	3	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+631.216	1.6	559633	WORD	n/a	wordpools/wordpool_EN.txt	EAR	4	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+633.8	1.6	560925	WORD	n/a	wordpools/wordpool_EN.txt	RAT	5	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+636.2	1.6	562125	WORD	n/a	wordpools/wordpool_EN.txt	FORK	6	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+638.785	1.6	563417	WORD	n/a	wordpools/wordpool_EN.txt	ROPE	7	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+641.301	1.6	564675	WORD	n/a	wordpools/wordpool_EN.txt	PIPE	8	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+643.836	1.6	565943	WORD	n/a	wordpools/wordpool_EN.txt	CRANE	9	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+646.335	1.6	567193	WORD	n/a	wordpools/wordpool_EN.txt	MOUTH	10	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+648.853	1.6	568452	WORD	n/a	wordpools/wordpool_EN.txt	WAND	11	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+651.236	1.6	569643	WORD	n/a	wordpools/wordpool_EN.txt	THUMB	12	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+652.854	0.0	570452	DISTRACT_START	n/a	n/a	n/a	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+652.854	0.016	570452	START	n/a	n/a	n/a	-999	0	5	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+652.87	7.168	570460	PROB	7.133	n/a	n/a	-999	0	5	[5, 6, 2]	13	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+660.038	7.301	574044	PROB	7.274	n/a	n/a	-999	0	5	[1, 8, 1]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+667.339	4.967	577695	PROB	4.933	n/a	n/a	-999	0	5	[4, 4, 2]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+672.306	4.966	580178	PROB	4.966	n/a	n/a	-999	0	5	[5, 3, 8]	16	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+677.272	0.018	582662	STOP	n/a	n/a	n/a	-999	0	5	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+677.29	1.201	582671	DISTRACT_END	n/a	n/a	n/a	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+678.491	1.129	583271	REC_START	n/a	n/a	n/a	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+679.62	1.745	583836	REC_WORD	1.129	n/a	WAND	11	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+681.365	7.399	584708	REC_WORD	2.874	n/a	CROWN	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+688.764	5.988	588408	REC_WORD	10.273	n/a	FORK	6	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+694.752	1.073	591402	REC_WORD	16.261	n/a	ROPE	7	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+695.825	2.1	591938	REC_WORD	17.334	n/a	AXE	1	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+697.925	5.099	592988	REC_WORD	19.434	n/a	RAT	5	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+703.024	5.476	595538	REC_WORD	24.533	n/a	OWL	2	1	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+708.5	14.516	598276	REC_END	n/a	n/a	n/a	-999	0	5	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+723.016	0.0	605534	TRIAL	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+723.016	10.0	605534	COUNTDOWN_START	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+733.444	0.006	610748	COUNTDOWN_END	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+733.45	1.6	610751	ORIENT	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+735.885	1.6	611969	WORD	n/a	wordpools/wordpool_EN.txt	WOOD	1	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+738.351	1.6	613202	WORD	n/a	wordpools/wordpool_EN.txt	HAT	2	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+740.666	4.6	614360	STIM_ON	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+740.869	1.6	614461	WORD	n/a	wordpools/wordpool_EN.txt	JET	3	0	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+743.269	1.6	615661	WORD	n/a	wordpools/wordpool_EN.txt	FOAM	4	0	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+745.853	1.6	616953	WORD	n/a	wordpools/wordpool_EN.txt	BAT	5	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+748.303	1.6	618178	WORD	n/a	wordpools/wordpool_EN.txt	ROOM	6	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+750.693	4.6	619373	STIM_ON	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+750.904	1.6	619479	WORD	n/a	wordpools/wordpool_EN.txt	WING	7	0	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+753.354	1.6	620704	WORD	n/a	wordpools/wordpool_EN.txt	SLIME	8	0	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+755.772	1.6	621913	WORD	n/a	wordpools/wordpool_EN.txt	BOWL	9	1	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+758.321	1.6	623187	WORD	n/a	wordpools/wordpool_EN.txt	FUR	10	1	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+760.655	4.6	624354	STIM_ON	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+760.873	1.6	624463	WORD	n/a	wordpools/wordpool_EN.txt	PIN	11	1	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+763.405	1.6	625729	WORD	n/a	wordpools/wordpool_EN.txt	SPARK	12	1	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+765.006	0.001	626530	DISTRACT_START	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+765.007	0.016	626530	START	n/a	n/a	n/a	-999	0	6	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+765.023	5.584	626538	PROB	5.55	n/a	n/a	-999	0	6	[7, 2, 8]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+770.607	2.867	629331	PROB	2.839	n/a	n/a	-999	0	6	[1, 5, 9]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+773.474	2.401	630764	PROB	2.372	n/a	n/a	-999	0	6	[1, 9, 3]	13	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+775.875	4.001	631965	PROB	3.971	n/a	n/a	-999	0	6	[6, 5, 2]	13	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+779.876	7.358	633965	PROB	7.358	n/a	n/a	-999	0	6	[2, 4, 3]	9	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+787.234	0.009	637644	STOP	n/a	n/a	n/a	-999	0	6	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+787.243	1.051	637649	DISTRACT_END	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+788.294	1.118	638174	REC_START	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+789.412	0.793	638733	REC_WORD	1.118	n/a	PIN	11	1	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+790.205	6.838	639130	REC_WORD	1.911	n/a	SPARK	12	1	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+797.043	9.969	642549	REC_WORD	8.749	n/a	FUR	10	1	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+807.012	11.29	647534	REC_WORD	18.718	n/a	BOWL	9	1	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+818.302	14.799	653179	REC_END	n/a	n/a	n/a	-999	0	6	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+833.101	0.0	660579	TRIAL	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+833.101	10.0	660579	COUNTDOWN_START	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+843.529	0.007	665793	COUNTDOWN_END	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+843.536	1.6	665796	ORIENT	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+845.929	4.6	666993	STIM_ON	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+846.137	1.6	667097	WORD	n/a	wordpools/wordpool_EN.txt	JEEP	1	0	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+848.67	1.6	668363	WORD	n/a	wordpools/wordpool_EN.txt	SHIRT	2	0	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+851.137	1.6	669597	WORD	n/a	wordpools/wordpool_EN.txt	CAKE	3	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+853.505	1.6	670781	WORD	n/a	wordpools/wordpool_EN.txt	PARK	4	1	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+855.824	4.6	671940	STIM_ON	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+856.039	1.6	672048	WORD	n/a	wordpools/wordpool_EN.txt	PIG	5	1	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+858.439	1.6	673248	WORD	n/a	wordpools/wordpool_EN.txt	PLANE	6	1	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+861.007	1.6	674532	WORD	n/a	wordpools/wordpool_EN.txt	MAT	7	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+863.573	1.6	675815	WORD	n/a	wordpools/wordpool_EN.txt	TRAIN	8	1	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+865.885	4.6	676971	STIM_ON	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+866.09	1.6	677074	WORD	n/a	wordpools/wordpool_EN.txt	STEAK	9	0	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+868.641	1.6	678349	WORD	n/a	wordpools/wordpool_EN.txt	PURSE	10	1	7	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+871.091	1.6	679574	WORD	n/a	wordpools/wordpool_EN.txt	FUDGE	11	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+873.692	1.6	680875	WORD	n/a	wordpools/wordpool_EN.txt	PET	12	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+875.308	0.001	681683	DISTRACT_START	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+875.309	0.016	681683	START	n/a	n/a	n/a	-999	0	7	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+875.325	9.068	681691	PROB	9.042	n/a	n/a	-999	0	7	[6, 5, 9]	20	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+884.393	4.068	686225	PROB	4.045	n/a	n/a	-999	0	7	[2, 7, 1]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+888.461	6.717	688259	PROB	6.687	n/a	n/a	-999	0	7	[6, 7, 6]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+895.178	5.994	691618	PROB	5.994	n/a	n/a	-999	0	7	[9, 7, 2]	18	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+901.172	0.007	694615	STOP	n/a	n/a	n/a	-999	0	7	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+901.179	1.135	694619	DISTRACT_END	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+902.314	0.739	695186	REC_START	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+903.053	0.809	695556	REC_WORD	0.739	n/a	PARK	4	1	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+903.862	0.984	695960	REC_WORD	1.548	n/a	PIG	5	1	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+904.846	1.132	696452	REC_WORD	2.532	n/a	PLANE	6	1	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+905.978	1.193	697018	REC_WORD	3.664	n/a	TRAIN	8	1	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+907.171	25.151	697615	REC_WORD	4.857	n/a	PURSE	10	1	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+932.322	2.88	710191	REC_END	n/a	n/a	n/a	-999	0	7	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+935.202	0.0	711631	TRIAL	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+935.202	10.0	711631	COUNTDOWN_START	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+945.63	0.007	716845	COUNTDOWN_END	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+945.637	1.6	716848	ORIENT	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+948.221	1.6	718140	WORD	n/a	wordpools/wordpool_EN.txt	PHONE	1	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+950.823	1.6	719441	WORD	n/a	wordpools/wordpool_EN.txt	TOAST	2	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+953.195	4.6	720627	STIM_ON	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+953.405	1.6	720732	WORD	n/a	wordpools/wordpool_EN.txt	TANK	3	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+955.94	1.6	722000	WORD	n/a	wordpools/wordpool_EN.txt	PEA	4	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+958.423	1.6	723242	WORD	n/a	wordpools/wordpool_EN.txt	CHAIR	5	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+960.791	1.6	724426	WORD	n/a	wordpools/wordpool_EN.txt	BEAN	6	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+963.21	4.6	725635	STIM_ON	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+963.424	1.6	725742	WORD	n/a	wordpools/wordpool_EN.txt	POOL	7	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+965.959	1.6	727010	WORD	n/a	wordpools/wordpool_EN.txt	YARD	8	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+968.475	1.6	728268	WORD	n/a	wordpools/wordpool_EN.txt	MUG	9	1	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+970.893	1.6	729477	WORD	n/a	wordpools/wordpool_EN.txt	MAIL	10	1	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+973.156	4.6	730608	STIM_ON	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+973.359	1.6	730710	WORD	n/a	wordpools/wordpool_EN.txt	FAN	11	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+975.877	1.6	731969	WORD	n/a	wordpools/wordpool_EN.txt	DIME	12	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+977.493	0.001	732777	DISTRACT_START	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+977.494	0.016	732777	START	n/a	n/a	n/a	-999	0	8	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+977.51	14.286	732785	PROB	14.257	n/a	n/a	-999	0	8	[3, 3, 4]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+991.796	8.335	739929	PROB	8.335	n/a	n/a	-999	0	8	[1, 6, 1]	8	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1000.131	0.016	744096	STOP	n/a	n/a	n/a	-999	0	8	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1000.147	1.134	744104	DISTRACT_END	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1001.281	1.949	744671	REC_START	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1003.23	1.127	745646	REC_WORD	1.949	n/a	MUG	9	1	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1004.357	26.932	746209	REC_WORD	3.076	n/a	MAIL	10	1	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1031.289	17.983	759676	REC_END	n/a	n/a	n/a	-999	0	8	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1049.272	0.0	768668	TRIAL	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1049.272	10.0	768668	COUNTDOWN_START	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1059.7	0.008	773882	COUNTDOWN_END	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1059.708	1.6	773886	ORIENT	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1062.08	4.6	775072	STIM_ON	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1062.291	1.6	775177	WORD	n/a	wordpools/wordpool_EN.txt	MOUSE	1	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1064.675	1.6	776369	WORD	n/a	wordpools/wordpool_EN.txt	CROW	2	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1067.109	1.6	777586	WORD	n/a	wordpools/wordpool_EN.txt	ROAD	3	1	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1069.542	1.6	778803	WORD	n/a	wordpools/wordpool_EN.txt	GRASS	4	1	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1071.76	4.6	779912	STIM_ON	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1071.977	1.6	780020	WORD	n/a	wordpools/wordpool_EN.txt	DRUM	5	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1074.443	1.6	781253	WORD	n/a	wordpools/wordpool_EN.txt	WEB	6	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1076.995	1.6	782529	WORD	n/a	wordpools/wordpool_EN.txt	FLUTE	7	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1079.594	1.6	783829	WORD	n/a	wordpools/wordpool_EN.txt	RAIN	8	1	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1081.786	4.6	784925	STIM_ON	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1081.996	1.6	785030	WORD	n/a	wordpools/wordpool_EN.txt	CALF	9	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1084.528	1.6	786296	WORD	n/a	wordpools/wordpool_EN.txt	PRINCE	10	0	9	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1087.095	1.6	787580	WORD	n/a	wordpools/wordpool_EN.txt	SHELL	11	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1089.479	1.6	788772	WORD	n/a	wordpools/wordpool_EN.txt	WOLF	12	1	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1091.096	0.001	789580	DISTRACT_START	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1091.097	0.016	789581	START	n/a	n/a	n/a	-999	0	9	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1091.113	7.151	789589	PROB	7.118	n/a	n/a	-999	0	9	[2, 8, 9]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1098.264	3.752	793164	PROB	3.727	n/a	n/a	-999	0	9	[8, 5, 8]	21	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1102.016	4.767	795040	PROB	4.743	n/a	n/a	-999	0	9	[3, 3, 6]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1106.783	4.455	797424	PROB	4.455	n/a	n/a	-999	0	9	[3, 6, 1]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1111.238	0.012	799652	STOP	n/a	n/a	n/a	-999	0	9	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1111.25	1.217	799658	DISTRACT_END	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1112.467	0.829	800266	REC_START	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1113.296	0.915	800681	REC_WORD	0.829	n/a	ROAD	3	1	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1114.211	1.089	801138	REC_WORD	1.744	n/a	GRASS	4	1	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1115.3	1.654	801683	REC_WORD	2.833	n/a	RAIN	8	1	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1116.954	25.525	802510	REC_WORD	4.487	n/a	WOLF	12	1	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1142.479	27.332	815273	REC_END	n/a	n/a	n/a	-999	0	9	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1169.811	10.0	828939	COUNTDOWN_START	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1169.811	10.428	828939	TRIAL	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1180.239	0.006	834153	COUNTDOWN_END	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1180.245	1.6	834156	ORIENT	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1182.847	1.6	835457	WORD	n/a	wordpools/wordpool_EN.txt	CAR	1	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1185.329	1.6	836698	WORD	n/a	wordpools/wordpool_EN.txt	STORE	2	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1187.709	4.6	837888	STIM_ON	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1187.914	1.6	837991	WORD	n/a	wordpools/wordpool_EN.txt	PLANT	3	1	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1190.497	1.6	839282	WORD	n/a	wordpools/wordpool_EN.txt	ROOT	4	0	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1193.081	1.6	840574	WORD	n/a	wordpools/wordpool_EN.txt	FARM	5	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1195.548	1.6	841808	WORD	n/a	wordpools/wordpool_EN.txt	JUICE	6	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1197.856	4.6	842962	STIM_ON	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1198.066	1.6	843067	WORD	n/a	wordpools/wordpool_EN.txt	STORM	7	1	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1200.682	1.6	844375	WORD	n/a	wordpools/wordpool_EN.txt	SHEEP	8	0	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1203.316	1.6	845692	WORD	n/a	wordpools/wordpool_EN.txt	ICE	9	1	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1205.734	1.6	846901	WORD	n/a	wordpools/wordpool_EN.txt	TRASH	10	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1208.026	4.6	848047	STIM_ON	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1208.233	1.6	848151	WORD	n/a	wordpools/wordpool_EN.txt	CUBE	11	1	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1210.751	1.6	849410	WORD	n/a	wordpools/wordpool_EN.txt	GRAPE	12	0	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1212.367	0.001	850218	DISTRACT_START	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1212.368	0.016	850218	START	n/a	n/a	n/a	-999	0	10	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1212.384	12.019	850226	PROB	11.987	n/a	n/a	-999	0	10	[7, 5, 9]	21	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1224.403	4.134	856236	PROB	4.112	n/a	n/a	-999	0	10	[6, 1, 9]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1228.537	5.254	858303	PROB	5.254	n/a	n/a	-999	0	10	[9, 8, 9]	24	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1233.791	0.014	860930	STOP	n/a	n/a	n/a	-999	0	10	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1233.805	1.218	860937	DISTRACT_END	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1235.023	1.031	861546	REC_START	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1236.054	0.835	862062	REC_WORD	1.031	n/a	PLANT	3	1	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1236.889	1.072	862479	REC_WORD	1.866	n/a	STORM	7	1	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1237.961	1.545	863015	REC_WORD	2.938	n/a	ICE	9	1	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1239.506	25.525	863788	REC_WORD	4.483	n/a	CUBE	11	1	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1265.031	9.948	876551	REC_END	n/a	n/a	n/a	-999	0	10	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1274.979	10.0	881525	COUNTDOWN_START	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1274.98	10.427	881525	TRIAL	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1285.407	0.007	886739	COUNTDOWN_END	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1285.414	1.6	886742	ORIENT	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1287.898	1.6	887984	WORD	n/a	wordpools/wordpool_EN.txt	SPEAR	1	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1290.414	1.6	889242	WORD	n/a	wordpools/wordpool_EN.txt	HOLE	2	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1292.815	4.6	890443	STIM_ON	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1293.033	1.6	890552	WORD	n/a	wordpools/wordpool_EN.txt	BUSH	3	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1295.499	1.6	891785	WORD	n/a	wordpools/wordpool_EN.txt	CHIN	4	1	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1298.067	1.6	893069	WORD	n/a	wordpools/wordpool_EN.txt	CHEEK	5	1	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1300.5	1.6	894286	WORD	n/a	wordpools/wordpool_EN.txt	PALM	6	1	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1302.67	4.6	895371	STIM_ON	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1302.884	1.6	895478	WORD	n/a	wordpools/wordpool_EN.txt	FLOOR	7	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1305.317	1.6	896694	WORD	n/a	wordpools/wordpool_EN.txt	CONE	8	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1307.885	1.6	897978	WORD	n/a	wordpools/wordpool_EN.txt	LOCK	9	1	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1310.334	1.6	899203	WORD	n/a	wordpools/wordpool_EN.txt	SWORD	10	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1312.639	4.6	900355	STIM_ON	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1312.853	1.6	900462	WORD	n/a	wordpools/wordpool_EN.txt	FROG	11	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1315.319	1.6	901695	WORD	n/a	wordpools/wordpool_EN.txt	FLAME	12	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1316.937	0.0	902504	DISTRACT_START	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1316.937	0.016	902504	START	n/a	n/a	n/a	-999	0	11	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1316.953	10.086	902512	PROB	10.058	n/a	n/a	-999	0	11	[5, 2, 1]	8	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1327.039	4.383	907556	PROB	4.348	n/a	n/a	-999	0	11	[8, 2, 1]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1331.422	3.535	909747	PROB	3.502	n/a	n/a	-999	0	11	[2, 3, 1]	6	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1334.957	2.983	911515	PROB	2.983	n/a	n/a	-999	0	11	[5, 9, 1]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1337.94	0.017	913006	STOP	n/a	n/a	n/a	-999	0	11	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1337.957	1.101	913015	DISTRACT_END	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1339.058	0.53	913565	REC_START	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1339.588	0.965	913830	REC_WORD	0.53	n/a	CHIN	4	1	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1340.553	1.446	914313	REC_WORD	1.495	n/a	CHEEK	5	1	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1341.999	0.815	915036	REC_WORD	2.941	n/a	LOCK	9	1	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1342.814	26.252	915443	REC_WORD	3.756	n/a	PALM	6	1	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1369.066	23.483	928570	REC_END	n/a	n/a	n/a	-999	0	11	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1392.549	10.0	940312	COUNTDOWN_START	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1392.549	10.428	940312	TRIAL	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1402.977	0.008	945526	COUNTDOWN_END	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1402.985	1.6	945530	ORIENT	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1405.328	4.6	946701	STIM_ON	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1405.535	1.6	946805	WORD	n/a	wordpools/wordpool_EN.txt	CASH	1	1	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1408.069	1.6	948072	WORD	n/a	wordpools/wordpool_EN.txt	TOOTH	2	1	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1410.485	1.6	949280	WORD	n/a	wordpools/wordpool_EN.txt	SPONGE	3	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1412.92	1.6	950497	WORD	n/a	wordpools/wordpool_EN.txt	WORLD	4	1	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1415.149	4.6	951612	STIM_ON	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1415.353	1.6	951714	WORD	n/a	wordpools/wordpool_EN.txt	SEED	5	0	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1417.871	1.6	952973	WORD	n/a	wordpools/wordpool_EN.txt	BRUSH	6	1	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1420.304	1.6	954190	WORD	n/a	wordpools/wordpool_EN.txt	BANK	7	1	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1422.772	1.6	955424	WORD	n/a	wordpools/wordpool_EN.txt	ANT	8	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1425.152	4.6	956614	STIM_ON	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1425.355	1.6	956715	WORD	n/a	wordpools/wordpool_EN.txt	LEAF	9	0	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1427.973	1.6	958024	WORD	n/a	wordpools/wordpool_EN.txt	BRANCH	10	0	12	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1430.422	1.6	959249	WORD	n/a	wordpools/wordpool_EN.txt	CORD	11	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1432.94	1.6	960508	WORD	n/a	wordpools/wordpool_EN.txt	STEM	12	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1434.556	0.001	961316	DISTRACT_START	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1434.557	0.016	961316	START	n/a	n/a	n/a	-999	0	12	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1434.573	10.17	961324	PROB	10.148	n/a	n/a	-999	0	12	[2, 4, 8]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1444.743	5.766	966409	PROB	5.738	n/a	n/a	-999	0	12	[7, 5, 2]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1450.509	3.801	969293	PROB	3.779	n/a	n/a	-999	0	12	[7, 7, 5]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1454.31	3.994	971193	PROB	3.994	n/a	n/a	-999	0	12	[8, 3, 6]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1458.304	0.007	973190	STOP	n/a	n/a	n/a	-999	0	12	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1458.311	1.167	973194	DISTRACT_END	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1459.478	0.641	973777	REC_START	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1460.119	1.107	974098	REC_WORD	0.641	n/a	CASH	1	1	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1461.226	1.151	974651	REC_WORD	1.748	n/a	TOOTH	2	1	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1462.377	0.961	975227	REC_WORD	2.899	n/a	BRUSH	6	1	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1463.338	1.768	975707	REC_WORD	3.86	n/a	WORLD	4	1	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1465.106	24.38	976591	REC_WORD	5.628	n/a	BANK	7	1	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1489.486	46.406	988782	REC_END	n/a	n/a	n/a	-999	0	12	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1535.892	0.0	1011985	TRIAL	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1535.892	10.0	1011985	COUNTDOWN_START	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1546.32	0.006	1017200	COUNTDOWN_END	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1546.326	1.6	1017203	ORIENT	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1548.711	1.6	1018395	WORD	n/a	wordpools/wordpool_EN.txt	THREAD	1	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1551.127	1.6	1019603	WORD	n/a	wordpools/wordpool_EN.txt	SHOE	2	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1553.428	4.6	1020754	STIM_ON	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1553.644	1.6	1020862	WORD	n/a	wordpools/wordpool_EN.txt	LIP	3	0	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1556.227	1.6	1022153	WORD	n/a	wordpools/wordpool_EN.txt	SUIT	4	1	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1558.645	1.6	1023362	WORD	n/a	wordpools/wordpool_EN.txt	RUG	5	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1561.03	1.6	1024555	WORD	n/a	wordpools/wordpool_EN.txt	SHIELD	6	1	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1563.228	4.6	1025654	STIM_ON	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1563.446	1.6	1025763	WORD	n/a	wordpools/wordpool_EN.txt	SIGN	7	0	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1565.947	1.6	1027013	WORD	n/a	wordpools/wordpool_EN.txt	BEAK	8	0	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1568.396	1.6	1028238	WORD	n/a	wordpools/wordpool_EN.txt	PANTS	9	1	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1570.815	1.6	1029447	WORD	n/a	wordpools/wordpool_EN.txt	SOAP	10	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1573.125	4.6	1030603	STIM_ON	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1573.331	1.6	1030706	WORD	n/a	wordpools/wordpool_EN.txt	CLOWN	11	1	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1575.832	1.6	1031956	WORD	n/a	wordpools/wordpool_EN.txt	LAMP	12	1	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1577.448	0.001	1032764	DISTRACT_START	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1577.449	0.016	1032765	START	n/a	n/a	n/a	-999	0	13	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1577.465	6.984	1032773	PROB	6.955	n/a	n/a	-999	0	13	[7, 2, 4]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1584.449	8.669	1036265	PROB	8.644	n/a	n/a	-999	0	13	[1, 7, 2]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1593.118	5.608	1040599	PROB	5.608	n/a	n/a	-999	0	13	[2, 9, 5]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1598.726	0.01	1043403	STOP	n/a	n/a	n/a	-999	0	13	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1598.736	1.067	1043408	DISTRACT_END	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1599.803	1.263	1043942	REC_START	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1601.066	1.043	1044573	REC_WORD	1.263	n/a	SUIT	4	1	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1602.109	1.333	1045095	REC_WORD	2.306	n/a	SHIELD	6	1	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1603.442	2.688	1045762	REC_WORD	3.639	n/a	PANTS	9	1	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1606.13	6.319	1047106	REC_WORD	6.327	n/a	CLOWN	11	1	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1612.449	17.367	1050265	REC_WORD	12.646	n/a	LAMP	12	1	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1629.816	6.459	1058949	REC_END	n/a	n/a	n/a	-999	0	13	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1636.275	10.0	1062179	COUNTDOWN_START	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1636.275	10.428	1062179	TRIAL	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1646.703	0.008	1067393	COUNTDOWN_END	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1646.711	1.6	1067397	ORIENT	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1649.277	1.6	1068680	WORD	n/a	wordpools/wordpool_EN.txt	CLOUD	1	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1651.695	1.6	1069889	WORD	n/a	wordpools/wordpool_EN.txt	JUDGE	2	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1653.936	4.6	1071009	STIM_ON	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1654.145	1.6	1071114	WORD	n/a	wordpools/wordpool_EN.txt	WHALE	3	1	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1656.579	1.6	1072331	WORD	n/a	wordpools/wordpool_EN.txt	HORSE	4	1	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1659.129	1.6	1073606	WORD	n/a	wordpools/wordpool_EN.txt	BEACH	5	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1661.613	1.6	1074848	WORD	n/a	wordpools/wordpool_EN.txt	STAR	6	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1663.785	4.6	1075934	STIM_ON	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1663.998	1.6	1076041	WORD	n/a	wordpools/wordpool_EN.txt	WAVE	7	1	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1666.614	1.6	1077349	WORD	n/a	wordpools/wordpool_EN.txt	SMOKE	8	0	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1669.164	1.6	1078624	WORD	n/a	wordpools/wordpool_EN.txt	HEN	9	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1671.565	1.6	1079824	WORD	n/a	wordpools/wordpool_EN.txt	HEART	10	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1673.787	4.6	1080935	STIM_ON	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1673.999	1.6	1081041	WORD	n/a	wordpools/wordpool_EN.txt	GLOVE	11	0	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1676.499	1.6	1082291	WORD	n/a	wordpools/wordpool_EN.txt	VEST	12	0	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1678.116	0.0	1083100	DISTRACT_START	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1678.116	0.016	1083100	START	n/a	n/a	n/a	-999	0	14	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1678.132	5.769	1083108	PROB	5.739	n/a	n/a	-999	0	14	[1, 6, 1]	8	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1683.901	5.084	1085992	PROB	5.05	n/a	n/a	-999	0	14	[4, 8, 5]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1688.985	2.3	1088534	PROB	2.269	n/a	n/a	-999	0	14	[5, 6, 1]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1691.285	6.001	1089684	PROB	5.977	n/a	n/a	-999	0	14	[7, 6, 7]	20	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1697.286	5.079	1092685	PROB	5.079	n/a	n/a	-999	0	14	[5, 1, 3]	9	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1702.365	0.005	1095225	STOP	n/a	n/a	n/a	-999	0	14	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1702.37	1.067	1095227	DISTRACT_END	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1703.437	0.994	1095761	REC_START	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1704.431	0.983	1096258	REC_WORD	0.994	n/a	WHALE	3	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1705.414	1.05	1096749	REC_WORD	1.977	n/a	HORSE	4	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1706.464	0.991	1097274	REC_WORD	3.027	n/a	HEN	9	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1707.455	1.147	1097770	REC_WORD	4.018	n/a	BEACH	5	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1708.602	8.195	1098343	REC_WORD	5.165	n/a	STAR	6	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1716.797	16.653	1102441	REC_WORD	13.36	n/a	WAVE	7	1	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1733.45	11.661	1110768	REC_END	n/a	n/a	n/a	-999	0	14	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1745.111	0.0	1116598	TRIAL	n/a	n/a	n/a	-999	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1745.111	10.0	1116598	COUNTDOWN_START	n/a	n/a	n/a	-999	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1755.539	0.007	1121812	COUNTDOWN_END	n/a	n/a	n/a	-999	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1755.546	1.6	1121816	ORIENT	n/a	n/a	n/a	-999	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1758.047	1.6	1123067	WORD	n/a	wordpools/wordpool_EN.txt	CHIEF	1	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1760.597	1.6	1124342	WORD	n/a	wordpools/wordpool_EN.txt	SCHOOL	2	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1763.114	1.6	1125600	WORD	n/a	wordpools/wordpool_EN.txt	TRUCK	3	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1765.548	1.6	1126817	WORD	n/a	wordpools/wordpool_EN.txt	SINK	4	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1768.132	1.6	1128109	WORD	n/a	wordpools/wordpool_EN.txt	BADGE	5	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1770.615	1.6	1129351	WORD	n/a	wordpools/wordpool_EN.txt	DRESS	6	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1773.082	1.6	1130584	WORD	n/a	wordpools/wordpool_EN.txt	SPOON	7	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1775.566	1.6	1131826	WORD	n/a	wordpools/wordpool_EN.txt	APE	8	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1778.1	1.6	1133093	WORD	n/a	wordpools/wordpool_EN.txt	DESK	9	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1780.483	1.6	1134285	WORD	n/a	wordpools/wordpool_EN.txt	SEAT	10	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1783.068	1.6	1135577	WORD	n/a	wordpools/wordpool_EN.txt	SMILE	11	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1785.618	1.6	1136852	WORD	n/a	wordpools/wordpool_EN.txt	FLAG	12	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1787.235	0.0	1137661	DISTRACT_START	n/a	n/a	n/a	-999	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1787.235	0.016	1137661	START	n/a	n/a	n/a	-999	0	15	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1787.251	6.185	1137669	PROB	6.154	n/a	n/a	-999	0	15	[6, 1, 1]	8	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1793.436	5.234	1140762	PROB	5.201	n/a	n/a	-999	0	15	[8, 7, 5]	20	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1798.67	3.584	1143379	PROB	3.559	n/a	n/a	-999	0	15	[2, 3, 5]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1802.254	4.435	1145171	PROB	4.399	n/a	n/a	-999	0	15	[1, 3, 2]	6	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1806.689	4.756	1147388	PROB	4.756	n/a	n/a	-999	0	15	[1, 9, 9]	19	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1811.445	0.011	1149766	STOP	n/a	n/a	n/a	-999	0	15	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1811.456	1.05	1149772	DISTRACT_END	n/a	n/a	n/a	-999	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1812.506	0.911	1150297	REC_START	n/a	n/a	n/a	-999	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1813.417	0.702	1150752	REC_WORD	0.911	n/a	SCHOOL	2	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1814.119	1.252	1151103	REC_WORD	1.613	n/a	TRUCK	3	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1815.371	0.727	1151729	REC_WORD	2.865	n/a	DESK	9	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1816.098	2.677	1152093	REC_WORD	3.592	n/a	SEAT	10	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1818.775	4.795	1153432	REC_WORD	6.269	n/a	APE	8	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1823.57	1.417	1155829	REC_WORD	11.064	n/a	CHIEF	1	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1824.987	17.532	1156538	REC_WORD	12.481	n/a	BADGE	5	1	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1842.519	9.594	1165304	REC_END	n/a	n/a	n/a	-999	0	15	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1852.113	0.0	1170101	TRIAL	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1852.113	10.0	1170101	COUNTDOWN_START	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1862.541	0.007	1175315	COUNTDOWN_END	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1862.548	1.6	1175319	ORIENT	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1864.823	4.6	1176456	STIM_ON	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1865.033	1.6	1176561	WORD	n/a	wordpools/wordpool_EN.txt	MOON	1	0	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1867.616	1.6	1177853	WORD	n/a	wordpools/wordpool_EN.txt	BEE	2	0	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1870.199	1.6	1179144	WORD	n/a	wordpools/wordpool_EN.txt	SHIP	3	1	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1872.701	1.6	1180395	WORD	n/a	wordpools/wordpool_EN.txt	SAIL	4	1	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1875.107	4.6	1181598	STIM_ON	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1875.317	1.6	1181703	WORD	n/a	wordpools/wordpool_EN.txt	POLE	5	1	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1877.785	1.6	1182937	WORD	n/a	wordpools/wordpool_EN.txt	EGG	6	1	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1880.251	1.6	1184171	WORD	n/a	wordpools/wordpool_EN.txt	FORT	7	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1882.753	1.6	1185422	WORD	n/a	wordpools/wordpool_EN.txt	ZOO	8	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1885.038	4.6	1186564	STIM_ON	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1885.252	1.6	1186671	WORD	n/a	wordpools/wordpool_EN.txt	ROCK	9	0	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1887.652	1.6	1187871	WORD	n/a	wordpools/wordpool_EN.txt	CAT	10	0	16	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1890.236	1.6	1189163	WORD	n/a	wordpools/wordpool_EN.txt	SHARK	11	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1892.637	1.6	1190364	WORD	n/a	wordpools/wordpool_EN.txt	FILM	12	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1894.253	0.001	1191172	DISTRACT_START	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1894.254	0.016	1191172	START	n/a	n/a	n/a	-999	0	16	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1894.27	11.219	1191180	PROB	11.187	n/a	n/a	-999	0	16	[2, 7, 1]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1905.489	5.419	1196790	PROB	5.398	n/a	n/a	-999	0	16	[3, 8, 6]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1910.908	3.835	1199500	PROB	3.835	n/a	n/a	-999	0	16	[8, 3, 1]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1914.743	0.015	1201417	STOP	n/a	n/a	n/a	-999	0	16	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1914.758	1.051	1201425	DISTRACT_END	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1915.809	0.635	1201950	REC_START	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1916.444	0.952	1202268	REC_WORD	0.635	n/a	SHIP	3	1	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1917.396	1.063	1202744	REC_WORD	1.587	n/a	POLE	5	1	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1918.459	2.712	1203275	REC_WORD	2.65	n/a	SAIL	4	1	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1921.171	24.646	1204631	REC_WORD	5.362	n/a	EGG	6	1	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1945.817	8.48	1216955	REC_END	n/a	n/a	n/a	-999	0	16	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1954.297	10.0	1221195	COUNTDOWN_START	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1954.298	10.427	1221195	TRIAL	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1964.725	0.009	1226409	COUNTDOWN_END	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1964.734	1.6	1226413	ORIENT	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1967.233	1.6	1227663	WORD	n/a	wordpools/wordpool_EN.txt	HOUSE	1	1	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1969.685	1.6	1228889	WORD	n/a	wordpools/wordpool_EN.txt	MAZE	2	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1972.029	4.6	1230061	STIM_ON	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1972.234	1.6	1230164	WORD	n/a	wordpools/wordpool_EN.txt	BATH	3	0	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1974.668	1.6	1231381	WORD	n/a	wordpools/wordpool_EN.txt	SNAKE	4	1	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1977.218	1.6	1232656	WORD	n/a	wordpools/wordpool_EN.txt	DITCH	5	1	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1979.803	1.6	1233948	WORD	n/a	wordpools/wordpool_EN.txt	STREET	6	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1982.159	4.6	1235126	STIM_ON	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1982.369	1.6	1235231	WORD	n/a	wordpools/wordpool_EN.txt	MUD	7	0	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1984.804	1.6	1236449	WORD	n/a	wordpools/wordpool_EN.txt	SWAMP	8	0	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1987.337	1.6	1237715	WORD	n/a	wordpools/wordpool_EN.txt	VINE	9	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1989.855	1.6	1238974	WORD	n/a	wordpools/wordpool_EN.txt	SKY	10	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1992.226	4.6	1240160	STIM_ON	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1992.437	1.6	1240265	WORD	n/a	wordpools/wordpool_EN.txt	EEL	11	1	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1995.022	1.6	1241558	WORD	n/a	wordpools/wordpool_EN.txt	STAIR	12	1	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1996.638	0.001	1242366	DISTRACT_START	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+1996.639	0.016	1242366	START	n/a	n/a	n/a	-999	0	17	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+1996.655	10.852	1242374	PROB	10.824	n/a	n/a	-999	0	17	[6, 4, 7]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2007.507	5.568	1247801	PROB	5.536	n/a	n/a	-999	0	17	[8, 7, 7]	22	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2013.075	5.263	1250585	PROB	5.263	n/a	n/a	-999	0	17	[7, 5, 2]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2018.338	0.004	1253216	STOP	n/a	n/a	n/a	-999	0	17	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2018.342	1.118	1253218	DISTRACT_END	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2019.46	0.853	1253777	REC_START	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2020.313	1.06	1254204	REC_WORD	0.853	n/a	SNAKE	4	1	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2021.373	1.36	1254734	REC_WORD	1.913	n/a	DITCH	5	1	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2022.733	1.154	1255414	REC_WORD	3.273	n/a	STREAM	-999	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2023.887	12.15	1255991	REC_WORD	4.427	n/a	EEL	11	1	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2036.037	0.704	1262066	REC_WORD	16.577	n/a	HOUSE	1	1	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2036.741	12.727	1262418	REC_WORD	17.281	n/a	STAIR	12	1	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2049.468	3.763	1268782	REC_END	n/a	n/a	n/a	-999	0	17	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2053.231	10.0	1270663	COUNTDOWN_START	n/a	n/a	n/a	-999	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2053.232	10.427	1270664	TRIAL	n/a	n/a	n/a	-999	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2063.659	0.008	1275877	COUNTDOWN_END	n/a	n/a	n/a	-999	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2063.667	1.6	1275881	ORIENT	n/a	n/a	n/a	-999	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2066.134	1.6	1277115	WORD	n/a	wordpools/wordpool_EN.txt	FOX	1	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2068.534	1.6	1278315	WORD	n/a	wordpools/wordpool_EN.txt	TENT	2	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2071.069	1.6	1279583	WORD	n/a	wordpools/wordpool_EN.txt	PIE	3	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2073.485	1.6	1280791	WORD	n/a	wordpools/wordpool_EN.txt	CAVE	4	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2076.07	1.6	1282083	WORD	n/a	wordpools/wordpool_EN.txt	SOUP	5	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2078.503	1.6	1283300	WORD	n/a	wordpools/wordpool_EN.txt	STICK	6	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2081.004	1.6	1284550	WORD	n/a	wordpools/wordpool_EN.txt	MOOSE	7	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2083.52	1.6	1285808	WORD	n/a	wordpools/wordpool_EN.txt	SKUNK	8	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2086.121	1.6	1287109	WORD	n/a	wordpools/wordpool_EN.txt	SEAL	9	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2088.521	1.6	1288309	WORD	n/a	wordpools/wordpool_EN.txt	BREAD	10	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2090.906	1.6	1289501	WORD	n/a	wordpools/wordpool_EN.txt	GATE	11	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2093.438	1.6	1290767	WORD	n/a	wordpools/wordpool_EN.txt	TAIL	12	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2095.04	0.0	1291568	DISTRACT_START	n/a	n/a	n/a	-999	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2095.04	0.017	1291568	START	n/a	n/a	n/a	-999	0	18	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2095.057	7.533	1291577	PROB	7.501	n/a	n/a	-999	0	18	[4, 8, 5]	17	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2102.59	7.652	1295344	PROB	7.616	n/a	n/a	-999	0	18	[7, 3, 6]	16	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2110.242	5.3	1299170	PROB	5.3	n/a	n/a	-999	0	18	[2, 4, 4]	10	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2115.542	0.017	1301820	STOP	n/a	n/a	n/a	-999	0	18	[-999, -999, -999]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2115.559	1.202	1301828	DISTRACT_END	n/a	n/a	n/a	-999	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2116.761	0.898	1302429	REC_START	n/a	n/a	n/a	-999	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2117.659	1.098	1302878	REC_WORD	0.898	n/a	FOX	1	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2118.757	1.622	1303427	REC_WORD	1.996	n/a	TENT	2	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2120.379	1.131	1304238	REC_WORD	3.618	n/a	MOOSE	7	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2121.51	25.258	1304804	REC_WORD	4.749	n/a	CAVE	4	1	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2146.768	8.531	1317433	REC_END	n/a	n/a	n/a	-999	0	18	[0, 0, 0]	n/a	0	0	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2155.299	10.0	1321699	COUNTDOWN_START	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2155.3	10.427	1321699	TRIAL	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2165.727	0.009	1326913	COUNTDOWN_END	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2165.736	1.6	1326918	ORIENT	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2168.218	1.6	1328159	WORD	n/a	wordpools/wordpool_EN.txt	FOG	1	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2170.77	1.6	1329435	WORD	n/a	wordpools/wordpool_EN.txt	BED	2	1	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2173.018	4.6	1330559	STIM_ON	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2173.219	1.6	1330659	WORD	n/a	wordpools/wordpool_EN.txt	GEESE	3	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2175.704	1.6	1331902	WORD	n/a	wordpools/wordpool_EN.txt	COW	4	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2178.187	1.6	1333143	WORD	n/a	wordpools/wordpool_EN.txt	BOARD	5	1	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2180.738	1.6	1334419	WORD	n/a	wordpools/wordpool_EN.txt	BRIDGE	6	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2183.016	4.6	1335558	STIM_ON	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2183.221	1.6	1335660	WORD	n/a	wordpools/wordpool_EN.txt	BOAT	7	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2185.654	1.6	1336877	WORD	n/a	wordpools/wordpool_EN.txt	SLUSH	8	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2188.189	1.6	1338145	WORD	n/a	wordpools/wordpool_EN.txt	VAN	9	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2190.773	1.6	1339437	WORD	n/a	wordpools/wordpool_EN.txt	GUARD	10	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2193.075	4.6	1340588	STIM_ON	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2193.289	1.6	1340695	WORD	n/a	wordpools/wordpool_EN.txt	LAMB	11	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2195.824	1.6	1341962	WORD	n/a	wordpools/wordpool_EN.txt	STOVE	12	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2197.44	0.001	1342770	DISTRACT_START	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2197.441	0.016	1342771	START	n/a	n/a	n/a	-999	0	19	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2197.457	11.57	1342779	PROB	11.534	n/a	n/a	-999	0	19	[2, 8, 9]	19	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2209.027	11.729	1348564	PROB	11.729	n/a	n/a	-999	0	19	[7, 4, 2]	11	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2220.756	0.006	1354429	STOP	n/a	n/a	n/a	-999	0	19	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2220.762	1.051	1354432	DISTRACT_END	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2221.813	4.619	1354957	REC_START	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2226.432	1.266	1357267	REC_WORD	4.619	n/a	BED	2	1	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2227.698	3.114	1357900	REC_WORD	5.885	n/a	BOARD	5	1	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2230.812	21.009	1359457	REC_WORD	8.999	n/a	CAVE	-999	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2251.821	195.446	1369962	REC_END	n/a	n/a	n/a	-999	0	19	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2447.267	10.0	1467688	COUNTDOWN_START	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2447.268	10.427	1467688	TRIAL	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2457.695	0.008	1472902	COUNTDOWN_END	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2457.703	1.6	1472906	ORIENT	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2460.076	4.6	1474092	STIM_ON	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2460.286	1.6	1474197	WORD	n/a	wordpools/wordpool_EN.txt	ARM	1	0	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2462.854	1.6	1475481	WORD	n/a	wordpools/wordpool_EN.txt	VASE	2	0	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2465.471	1.6	1476790	WORD	n/a	wordpools/wordpool_EN.txt	TRAY	3	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2467.939	1.6	1478024	WORD	n/a	wordpools/wordpool_EN.txt	BAG	4	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2470.291	4.6	1479200	STIM_ON	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2470.505	1.6	1479307	WORD	n/a	wordpools/wordpool_EN.txt	DOLL	5	0	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2473.023	1.6	1480566	WORD	n/a	wordpools/wordpool_EN.txt	BALL	6	1	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2475.639	1.6	1481874	WORD	n/a	wordpools/wordpool_EN.txt	SOCK	7	1	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2478.024	1.6	1483067	WORD	n/a	wordpools/wordpool_EN.txt	PEAR	8	1	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2480.198	4.6	1484154	STIM_ON	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2480.406	1.6	1484258	WORD	n/a	wordpools/wordpool_EN.txt	FOOT	9	1	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2482.958	1.6	1485534	WORD	n/a	wordpools/wordpool_EN.txt	CANE	10	0	20	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2485.457	1.6	1486783	WORD	n/a	wordpools/wordpool_EN.txt	STRING	11	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2487.975	1.6	1488042	WORD	n/a	wordpools/wordpool_EN.txt	OAR	12	1	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2489.591	0.001	1488850	DISTRACT_START	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2489.592	0.016	1488851	START	n/a	n/a	n/a	-999	0	20	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2489.608	7.386	1488859	PROB	7.357	n/a	n/a	-999	0	20	[7, 3, 4]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2496.994	4.867	1492552	PROB	4.844	n/a	n/a	-999	0	20	[6, 1, 9]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2501.861	7.001	1494986	PROB	6.977	n/a	n/a	-999	0	20	[9, 5, 4]	20	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2508.862	4.144	1498486	PROB	4.144	n/a	n/a	-999	0	20	[5, 7, 3]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2513.006	0.007	1500558	STOP	n/a	n/a	n/a	-999	0	20	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2513.013	1.167	1500562	DISTRACT_END	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2514.18	0.591	1501145	REC_START	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2514.771	0.627	1501441	REC_WORD	0.591	n/a	BALL	6	1	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2515.398	0.991	1501754	REC_WORD	1.218	n/a	SOCK	7	1	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2516.389	0.643	1502250	REC_WORD	2.209	n/a	PEAR	8	1	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2517.032	0.821	1502571	REC_WORD	2.852	n/a	FOOT	9	1	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2517.853	26.335	1502982	REC_WORD	3.673	n/a	OAR	12	1	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2544.188	48.021	1516150	REC_END	n/a	n/a	n/a	-999	0	20	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2592.209	10.0	1540161	COUNTDOWN_START	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2592.21	10.427	1540162	TRIAL	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2602.637	0.008	1545375	COUNTDOWN_END	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2602.645	1.6	1545379	ORIENT	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2604.961	4.6	1546537	STIM_ON	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2605.178	1.6	1546646	WORD	n/a	wordpools/wordpool_EN.txt	PIT	1	1	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2607.763	1.6	1547938	WORD	n/a	wordpools/wordpool_EN.txt	HILL	2	0	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2610.363	1.6	1549238	WORD	n/a	wordpools/wordpool_EN.txt	BROOM	3	1	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2612.814	1.6	1550464	WORD	n/a	wordpools/wordpool_EN.txt	ARK	4	1	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2615.042	4.6	1551578	STIM_ON	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2615.247	1.6	1551680	WORD	n/a	wordpools/wordpool_EN.txt	STRAW	5	1	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2617.815	1.6	1552964	WORD	n/a	wordpools/wordpool_EN.txt	STONE	6	0	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2620.281	1.6	1554198	WORD	n/a	wordpools/wordpool_EN.txt	TREE	7	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2622.849	1.6	1555482	WORD	n/a	wordpools/wordpool_EN.txt	SNOW	8	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2625.023	4.6	1556569	STIM_ON	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2625.232	1.6	1556673	WORD	n/a	wordpools/wordpool_EN.txt	OAK	9	0	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2627.649	1.6	1557882	WORD	n/a	wordpools/wordpool_EN.txt	FACE	10	0	21	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2630.216	1.6	1559165	WORD	n/a	wordpools/wordpool_EN.txt	NEST	11	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2632.684	1.6	1560399	WORD	n/a	wordpools/wordpool_EN.txt	LAWN	12	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2634.3	0.001	1561207	DISTRACT_START	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2634.301	0.016	1561208	START	n/a	n/a	n/a	-999	0	21	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2634.317	13.586	1561216	PROB	13.552	n/a	n/a	-999	0	21	[7, 6, 3]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2647.903	18.406	1568009	PROB	18.406	n/a	n/a	-999	0	21	[9, 7, 6]	22	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2666.309	0.013	1577212	STOP	n/a	n/a	n/a	-999	0	21	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2666.322	1.118	1577219	DISTRACT_END	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2667.44	1.565	1577778	REC_START	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2669.005	1.355	1578560	REC_WORD	1.565	n/a	PIT	1	1	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2670.36	1.673	1579238	REC_WORD	2.92	n/a	BROOM	3	1	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2672.033	1.057	1580074	REC_WORD	4.593	n/a	STRAW	5	1	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2673.09	24.358	1580603	REC_WORD	5.65	n/a	ARK	4	1	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2697.448	5.714	1592782	REC_END	n/a	n/a	n/a	-999	0	21	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2703.162	0.0	1595639	TRIAL	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2703.162	10.0	1595639	COUNTDOWN_START	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2713.59	0.007	1600854	COUNTDOWN_END	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2713.597	1.6	1600857	ORIENT	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2716.131	1.6	1602124	WORD	n/a	wordpools/wordpool_EN.txt	ROOF	1	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2718.632	1.6	1603375	WORD	n/a	wordpools/wordpool_EN.txt	POND	2	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2720.992	4.6	1604555	STIM_ON	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2721.199	1.6	1604658	WORD	n/a	wordpools/wordpool_EN.txt	RICE	3	1	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2723.767	1.6	1605942	WORD	n/a	wordpools/wordpool_EN.txt	BLUSH	4	0	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2726.233	1.6	1607175	WORD	n/a	wordpools/wordpool_EN.txt	GLASS	5	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2728.851	1.6	1608484	WORD	n/a	wordpools/wordpool_EN.txt	SNAIL	6	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2731.181	4.6	1609649	STIM_ON	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2731.384	1.6	1609751	WORD	n/a	wordpools/wordpool_EN.txt	FOOD	7	1	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2733.952	1.6	1611035	WORD	n/a	wordpools/wordpool_EN.txt	HOOK	8	0	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2736.385	1.6	1612251	WORD	n/a	wordpools/wordpool_EN.txt	MILK	9	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2738.853	1.6	1613485	WORD	n/a	wordpools/wordpool_EN.txt	TOAD	10	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2741.23	4.6	1614674	STIM_ON	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2741.436	1.6	1614777	WORD	n/a	wordpools/wordpool_EN.txt	JAR	11	1	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2743.837	1.6	1615978	WORD	n/a	wordpools/wordpool_EN.txt	SUN	12	1	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2745.453	0.001	1616786	DISTRACT_START	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2745.454	0.016	1616786	START	n/a	n/a	n/a	-999	0	22	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2745.47	12.185	1616794	PROB	12.155	n/a	n/a	-999	0	22	[5, 6, 5]	16	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2757.655	4.352	1622887	PROB	4.331	n/a	n/a	-999	0	22	[4, 7, 7]	18	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2762.007	5.067	1625063	PROB	5.067	n/a	n/a	-999	0	22	[8, 3, 4]	15	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2767.074	0.016	1627596	STOP	n/a	n/a	n/a	-999	0	22	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2767.09	1.051	1627604	DISTRACT_END	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2768.141	0.936	1628130	REC_START	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2769.077	0.864	1628598	REC_WORD	0.936	n/a	JAR	11	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2769.941	2.363	1629030	REC_WORD	1.8	n/a	RICE	3	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2772.304	1.415	1630211	REC_WORD	4.163	n/a	FOOD	7	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2773.719	1.428	1630919	REC_WORD	5.578	n/a	SAND	-999	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2775.147	7.863	1631633	REC_WORD	7.006	n/a	SUN	12	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2783.01	11.132	1635565	REC_WORD	14.869	n/a	TOAD	10	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2794.142	4.007	1641131	REC_WORD	26.001	n/a	POND	2	1	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2798.149	3.064	1643134	REC_END	n/a	n/a	n/a	-999	0	22	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2801.213	0.0	1644666	TRIAL	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2801.213	10.0	1644666	COUNTDOWN_START	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2811.641	0.007	1649881	COUNTDOWN_END	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2811.648	1.6	1649884	ORIENT	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2813.951	4.6	1651036	STIM_ON	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2814.165	1.6	1651143	WORD	n/a	wordpools/wordpool_EN.txt	INK	1	0	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2816.733	1.6	1652427	WORD	n/a	wordpools/wordpool_EN.txt	TEA	2	0	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2819.266	1.6	1653693	WORD	n/a	wordpools/wordpool_EN.txt	TOY	3	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2821.666	1.6	1654893	WORD	n/a	wordpools/wordpool_EN.txt	MULE	4	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2824.004	4.6	1656062	STIM_ON	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2824.217	1.6	1656169	WORD	n/a	wordpools/wordpool_EN.txt	BOY	5	1	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2826.617	1.6	1657369	WORD	n/a	wordpools/wordpool_EN.txt	TIE	6	1	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2829.052	1.6	1658586	WORD	n/a	wordpools/wordpool_EN.txt	CLOTH	7	1	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2831.551	1.6	1659836	WORD	n/a	wordpools/wordpool_EN.txt	SPRING	8	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2833.931	4.6	1661026	STIM_ON	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2834.135	1.6	1661128	WORD	n/a	wordpools/wordpool_EN.txt	SQUARE	9	0	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2836.669	1.6	1662395	WORD	n/a	wordpools/wordpool_EN.txt	PEACH	10	0	23	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2839.054	1.6	1663588	WORD	n/a	wordpools/wordpool_EN.txt	TOOL	11	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2841.52	1.6	1664821	WORD	n/a	wordpools/wordpool_EN.txt	PLATE	12	1	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2843.137	0.0	1665629	DISTRACT_START	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2843.137	0.016	1665629	START	n/a	n/a	n/a	-999	0	23	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2843.153	11.436	1665637	PROB	11.4	n/a	n/a	-999	0	23	[6, 4, 4]	14	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2854.589	4.0	1671355	PROB	3.972	n/a	n/a	-999	0	23	[6, 4, 8]	18	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2858.589	2.834	1673355	PROB	2.812	n/a	n/a	-999	0	23	[2, 5, 5]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2861.423	3.571	1674772	PROB	3.571	n/a	n/a	-999	0	23	[3, 1, 8]	12	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2864.994	0.014	1676558	STOP	n/a	n/a	n/a	-999	0	23	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2865.008	1.117	1676565	DISTRACT_END	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2866.125	0.572	1677123	REC_START	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2866.697	1.216	1677409	REC_WORD	0.572	n/a	BOY	5	1	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2867.913	1.368	1678018	REC_WORD	1.788	n/a	TIE	6	1	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2869.281	2.195	1678702	REC_WORD	3.156	n/a	CLOTH	7	1	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2871.476	24.657	1679799	REC_WORD	5.351	n/a	PLATE	12	1	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2896.133	25.001	1692128	REC_END	n/a	n/a	n/a	-999	0	23	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2921.134	10.0	1704629	COUNTDOWN_START	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2921.134	10.428	1704629	TRIAL	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2931.562	0.007	1709843	COUNTDOWN_END	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2931.569	1.6	1709847	ORIENT	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2933.81	4.6	1710967	STIM_ON	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2934.02	1.6	1711072	WORD	n/a	wordpools/wordpool_EN.txt	MAP	1	0	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2936.57	1.6	1712347	WORD	n/a	wordpools/wordpool_EN.txt	CORN	2	0	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2939.071	1.6	1713598	WORD	n/a	wordpools/wordpool_EN.txt	ROSE	3	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2941.654	1.6	1714889	WORD	n/a	wordpools/wordpool_EN.txt	ELF	4	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2943.979	4.6	1716052	STIM_ON	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2944.188	1.6	1716156	WORD	n/a	wordpools/wordpool_EN.txt	CAPE	5	0	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2946.638	1.6	1717381	WORD	n/a	wordpools/wordpool_EN.txt	NET	6	0	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2949.105	1.6	1718615	WORD	n/a	wordpools/wordpool_EN.txt	SEA	7	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2951.589	1.6	1719857	WORD	n/a	wordpools/wordpool_EN.txt	SHEET	8	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2953.863	4.6	1720994	STIM_ON	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2954.074	1.6	1721099	WORD	n/a	wordpools/wordpool_EN.txt	GOLD	9	1	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2956.457	1.6	1722291	WORD	n/a	wordpools/wordpool_EN.txt	CLAY	10	1	24	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+2959.008	1.6	1723566	WORD	n/a	wordpools/wordpool_EN.txt	PEARL	11	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2961.458	1.6	1724792	WORD	n/a	wordpools/wordpool_EN.txt	COIN	12	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2963.075	0.001	1725600	DISTRACT_START	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2963.076	0.015	1725601	START	n/a	n/a	n/a	-999	0	24	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2963.091	17.854	1725608	PROB	17.829	n/a	n/a	-999	0	24	[3, 2, 5]	10	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2980.945	5.959	1734535	PROB	5.959	n/a	n/a	-999	0	24	[6, 5, 6]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2986.904	0.009	1737515	STOP	n/a	n/a	n/a	-999	0	24	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2986.913	1.151	1737519	DISTRACT_END	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2988.064	2.171	1738095	REC_START	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2990.235	0.934	1739180	REC_WORD	2.171	n/a	SHEET	8	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2991.169	1.173	1739648	REC_WORD	3.105	n/a	CLAY	10	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2992.342	1.635	1740234	REC_WORD	4.278	n/a	ELF	4	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2993.977	2.023	1741052	REC_WORD	5.913	n/a	GOLD	9	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2996.0	1.747	1742063	REC_WORD	7.936	n/a	COIN	12	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+2997.747	20.325	1742937	REC_WORD	9.683	n/a	PEARL	11	1	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3018.072	29.067	1753099	REC_END	n/a	n/a	n/a	-999	0	24	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3047.139	0.0	1767633	TRIAL	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3047.139	10.0	1767633	COUNTDOWN_START	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3057.567	0.007	1772848	COUNTDOWN_END	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3057.574	1.6	1772851	ORIENT	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3059.779	4.6	1773954	STIM_ON	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3059.992	1.6	1774060	WORD	n/a	wordpools/wordpool_EN.txt	NAIL	1	1	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3062.442	1.6	1775285	WORD	n/a	wordpools/wordpool_EN.txt	JAIL	2	1	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3064.86	1.6	1776494	WORD	n/a	wordpools/wordpool_EN.txt	HOSE	3	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3067.343	1.6	1777736	WORD	n/a	wordpools/wordpool_EN.txt	SKI	4	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3069.716	4.6	1778922	STIM_ON	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3069.928	1.6	1779028	WORD	n/a	wordpools/wordpool_EN.txt	DOCK	5	0	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3072.31	1.6	1780219	WORD	n/a	wordpools/wordpool_EN.txt	BOMB	6	0	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3074.895	1.6	1781512	WORD	n/a	wordpools/wordpool_EN.txt	HOOF	7	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3077.311	1.6	1782720	WORD	n/a	wordpools/wordpool_EN.txt	KEY	8	1	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3079.522	4.6	1783825	STIM_ON	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3079.746	1.6	1783937	WORD	n/a	wordpools/wordpool_EN.txt	LAND	9	0	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3082.362	1.6	1785245	WORD	n/a	wordpools/wordpool_EN.txt	BOOT	10	1	25	[0, 0, 0]	n/a	1	1	4600	LMH1	LMH2	1000.0	50	230	300	FR2	0	R1024E
+3084.813	1.6	1786471	WORD	n/a	wordpools/wordpool_EN.txt	LAKE	11	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3087.363	1.6	1787746	WORD	n/a	wordpools/wordpool_EN.txt	BOOK	12	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3088.981	0.001	1788555	DISTRACT_START	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3088.982	0.016	1788556	START	n/a	n/a	n/a	-999	0	25	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3088.998	11.117	1788564	PROB	11.084	n/a	n/a	-999	0	25	[4, 8, 5]	17	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3100.115	4.251	1794122	PROB	4.215	n/a	n/a	-999	0	25	[9, 8, 6]	23	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3104.366	5.335	1796248	PROB	5.335	n/a	n/a	-999	0	25	[1, 2, 4]	7	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3109.701	0.017	1798915	STOP	n/a	n/a	n/a	-999	0	25	[-999, -999, -999]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3109.718	1.184	1798924	DISTRACT_END	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3110.902	0.746	1799516	REC_START	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3111.648	1.005	1799889	REC_WORD	0.746	n/a	NAIL	1	1	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3112.653	2.487	1800391	REC_WORD	1.751	n/a	JAIL	2	1	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3115.14	1.696	1801635	REC_WORD	4.238	n/a	KEY	8	1	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3116.836	24.073	1802483	REC_WORD	5.934	n/a	BOOT	10	1	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3140.909	27.368	1814520	REC_END	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
+3168.277	0.0	1828204	SESS_END	n/a	n/a	n/a	-999	0	25	[0, 0, 0]	n/a	0	1	0	n/a	n/a	0.0	0	0	0	FR2	0	R1024E
