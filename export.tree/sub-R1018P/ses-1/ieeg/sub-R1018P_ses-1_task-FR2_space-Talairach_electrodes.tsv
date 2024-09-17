@@ -1,0 +1,119 @@
+name	x	y	z	size	group	hemisphere	type	wb.region	ind.region
+RF1	24.154	69.6363	-26.2128	-999	RF	R	strip	n/a	rostralmiddlefrontal
+RF2	33.9303	65.8697	-22.7965	-999	RF	R	strip	Right FRP frontal pole	rostralmiddlefrontal
+RF3	42.9601	61.1337	-19.104	-999	RF	R	strip	Right MFG middle frontal gyrus	parsorbitalis
+RF4	50.5727	54.7002	-13.8433	-999	RF	R	strip	Right MFG middle frontal gyrus	rostralmiddlefrontal
+RF5	55.2347	48.3798	-7.32523	-999	RF	R	strip	n/a	parstriangularis
+RF6	59.0718	40.5733	-0.249891	-999	RF	R	strip	n/a	parstriangularis
+RF7	60.319	31.8133	6.55242	-999	RF	R	strip	Right OpIFG opercular part of the inferior frontal gyrus	parstriangularis
+RF8	60.4655	23.7356	13.2695	-999	RF	R	strip	Right OpIFG opercular part of the inferior frontal gyrus	parsopercularis
+ROF1	37.5149	10.5894	-47.9651	-999	ROF	R	strip	Right TMP temporal pole	fusiform
+ROF2	48.3079	13.3556	-45.0524	-999	ROF	R	strip	Right TMP temporal pole	middletemporal
+ROF3	57.0879	13.9379	-38.2638	-999	ROF	R	strip	Right TMP temporal pole	middletemporal
+ROF4	62.3248	14.4294	-29.0525	-999	ROF	R	strip	n/a	middletemporal
+ROF5	64.8899	13.1404	-19.2428	-999	ROF	R	strip	n/a	superiortemporal
+ROF6	66.3516	12.2512	-8.37126	-999	ROF	R	strip	n/a	superiortemporal
+ROF7	66.1697	8.94713	1.16058	-999	ROF	R	strip	Right PrG precentral gyrus	precentral
+ROF8	64.8843	6.08492	12.5939	-999	ROF	R	strip	Right PrG precentral gyrus	precentral
+RPF1	56.547	-33.1906	58.4034	-999	RPF	R	strip	Right SPL superior parietal lobule	superiorparietal
+RPF2	60.3233	-23.5244	53.3515	-999	RPF	R	strip	n/a	supramarginal
+RPF3	60.4088	-14.1528	47.4753	-999	RPF	R	strip	Right PoG postcentral gyrus	postcentral
+RPF4	60.1837	-6.59887	40.8943	-999	RPF	R	strip	Right PoG postcentral gyrus	postcentral
+RO1	34.8062	-93.9961	-14.9983	-999	RO	R	strip	n/a	lateraloccipital
+RO2	43.8245	-91.5581	-9.73185	-999	RO	R	strip	n/a	lateraloccipital
+RO3	49.6106	-87.3967	-1.40684	-999	RO	R	strip	n/a	lateraloccipital
+RO4	54.4531	-81.4922	6.8222	-999	RO	R	strip	Right IOG inferior occipital gyrus	lateraloccipital
+RO5	58.0413	-75.648	14.5382	-999	RO	R	strip	Right MOG middle occipital gyrus	lateraloccipital
+RO6	61.8616	-68.5098	23.0953	-999	RO	R	strip	n/a	inferiorparietal
+RO7	62.0699	-61.1424	30.6922	-999	RO	R	strip	Right AnG angular gyrus	inferiorparietal
+RO8	62.5921	-51.6799	37.7445	-999	RO	R	strip	Right AnG angular gyrus	inferiorparietal
+RTP1	48.701	-57.9218	-22.1517	-999	RTP	R	strip	Right FuG fusiform gyrus	inferiortemporal
+RTP2	60.2519	-61.3601	-21.0891	-999	RTP	R	strip	Right Cerebellum Exterior	inferiortemporal
+RTP3	67.1066	-61.5891	-13.9782	-999	RTP	R	strip	n/a	inferiortemporal
+RTP4	69.0388	-59.3326	-3.86649	-999	RTP	R	strip	n/a	inferiortemporal
+RTP5	69.9491	-55.8539	6.34591	-999	RTP	R	strip	Right ITG inferior temporal gyrus	inferiorparietal
+RTP6	69.5235	-53.2318	17.5312	-999	RTP	R	strip	n/a	inferiorparietal
+RTP7	68.8222	-48.4353	28.1974	-999	RTP	R	strip	Right AnG angular gyrus	inferiorparietal
+RTP8	66.1204	-44.6949	38.0991	-999	RTP	R	strip	Right AnG angular gyrus	inferiorparietal
+LFV1	-1.37051	64.4753	26.7801	-999	LFV	L	strip	n/a	superiorfrontal
+LFV2	-6.29372	58.6824	33.3187	-999	LFV	L	strip	Left SFG superior frontal gyrus	superiorfrontal
+LFV3	-16.1216	48.7614	38.8985	-999	LFV	L	strip	Left SFG superior frontal gyrus	superiorfrontal
+LFV4	-21.9325	42.3398	39.7594	-999	LFV	L	strip	Left SFG superior frontal gyrus	superiorfrontal
+LFV5	-29.3084	34.0125	38.853	-999	LFV	L	strip	n/a	superiorfrontal
+LFV6	-35.5807	25.2804	36.7821	-999	LFV	L	strip	Left MFG middle frontal gyrus	caudalmiddlefrontal
+LFV7	-42.7966	18.2783	34.3537	-999	LFV	L	strip	Left Cerebral White Matter	caudalmiddlefrontal
+LFV8	-49.5831	9.87188	33.4219	-999	LFV	L	strip	Left Cerebral White Matter	caudalmiddlefrontal
+LF1	-6.84408	67.9468	-25.806	-999	LF	L	strip	Left FRP frontal pole	frontalpole
+LF2	-14.4939	70.9865	-17.3581	-999	LF	L	strip	Left FRP frontal pole	frontalpole
+LF3	-21.6678	69.4323	-8.95895	-999	LF	L	strip	Left FRP frontal pole	rostralmiddlefrontal
+LF4	-27.9734	65.9153	-1.0463	-999	LF	L	strip	Left SFG superior frontal gyrus	rostralmiddlefrontal
+LF5	-33.643	59.1541	5.79022	-999	LF	L	strip	Left MFG middle frontal gyrus	rostralmiddlefrontal
+LF6	-37.3377	50.2891	9.45645	-999	LF	L	strip	Left MFG middle frontal gyrus	rostralmiddlefrontal
+LF7	-44.4472	38.9552	12.8179	-999	LF	L	strip	Left MFG middle frontal gyrus	rostralmiddlefrontal
+LF8	-47.9035	31.939	14.8262	-999	LF	L	strip	Left OpIFG opercular part of the inferior frontal gyrus	rostralmiddlefrontal
+LOF1	-24.3408	-1.46045	-38.6972	-999	LOF	L	strip	Left Putamen	entorhinal
+LOF2	-29.0587	7.19516	-40.3667	-999	LOF	L	strip	Left TMP temporal pole	entorhinal
+LOF3	-36.2254	14.5117	-37.248	-999	LOF	L	strip	Left TMP temporal pole	temporalpole
+LOF4	-43.7937	18.3585	-30.069	-999	LOF	L	strip	Left TMP temporal pole	temporalpole
+LOF5	-48.81	18.9055	-21.2295	-999	LOF	L	strip	Left TMP temporal pole	lateralorbitofrontal
+LOF6	-51.5066	14.8626	-11.492	-999	LOF	L	strip	Left TMP temporal pole	superiortemporal
+LOF7	-54.4324	9.81228	-3.6594	-999	LOF	L	strip	n/a	superiortemporal
+LOF8	-57.2858	4.75199	6.95527	-999	LOF	L	strip	Left PrG precentral gyrus	parsopercularis
+LPF1	-33.5598	-44.8628	69.3985	-999	LPF	L	strip	Left SPL superior parietal lobule	postcentral
+LPF2	-41.0215	-37.9602	65.8955	-999	LPF	L	strip	Left SPL superior parietal lobule	postcentral
+LPF3	-47.0692	-29.6445	61.9328	-999	LPF	L	strip	n/a	postcentral
+LPF4	-50.2414	-21.6944	55.4795	-999	LPF	L	strip	Left Cerebral White Matter	postcentral
+LPFV1	-14.0311	35.8055	54.9413	-999	LPFV	L	strip	Left SFG superior frontal gyrus	superiorfrontal
+LPFV2	-21.3379	27.1698	57.6474	-999	LPFV	L	strip	n/a	superiorfrontal
+LPFV3	-27.3873	18.8994	60.1664	-999	LPFV	L	strip	n/a	superiorfrontal
+LPFV4	-33.6658	9.61241	60.5946	-999	LPFV	L	strip	n/a	superiorfrontal
+LPFV5	-38.9162	-0.325793	58.7448	-999	LPFV	L	strip	n/a	precentral
+LPFV6	-44.0064	-8.93902	55.3733	-999	LPFV	L	strip	Left Cerebral White Matter	precentral
+LPV1	-8.25035	-69.7898	60.6646	-999	LPV	L	strip	n/a	superiorparietal
+LPV2	-19.9581	-67.4033	59.7897	-999	LPV	L	strip	n/a	superiorparietal
+LPV3	-29.6622	-63.6829	58.4299	-999	LPV	L	strip	n/a	superiorparietal
+LPV4	-38.0706	-55.3279	55.8189	-999	LPV	L	strip	n/a	inferiorparietal
+LPV5	-45.3002	-47.1312	53.157	-999	LPV	L	strip	Left SMG supramarginal gyrus	supramarginal
+LPV6	-53.2008	-39.6566	51.9064	-999	LPV	L	strip	Left AnG angular gyrus	supramarginal
+LO1	-5.64843	-104.081	11.1445	-999	LO	L	strip	Left OCP occipital pole	lateraloccipital
+LO2	-13.2167	-100.2	19.0237	-999	LO	L	strip	Left OCP occipital pole	lateraloccipital
+LO3	-20.7035	-95.5166	25.5172	-999	LO	L	strip	Left OCP occipital pole	lateraloccipital
+LO4	-27.9579	-89.5396	32.8519	-999	LO	L	strip	Left MOG middle occipital gyrus	inferiorparietal
+LO5	-33.3624	-82.9992	38.7241	-999	LO	L	strip	Left MOG middle occipital gyrus	inferiorparietal
+LO6	-40.2969	-74.372	43.015	-999	LO	L	strip	Left MOG middle occipital gyrus	inferiorparietal
+LO7	-44.6381	-64.4905	46.7953	-999	LO	L	strip	Left MOG middle occipital gyrus	inferiorparietal
+LO8	-47.8726	-54.7365	48.1613	-999	LO	L	strip	Left Cerebral White Matter	inferiorparietal
+LTP1	-62.2056	-60.7438	-9.42805	-999	LTP	L	strip	n/a	inferiortemporal
+LTP2	-65.0644	-58.0957	-0.148204	-999	LTP	L	strip	n/a	middletemporal
+LTP3	-65.333	-54.4405	10.4743	-999	LTP	L	strip	Left ITG inferior temporal gyrus	bankssts
+LTP4	-64.2659	-49.8817	21.0639	-999	LTP	L	strip	Left AnG angular gyrus	supramarginal
+LTP5	-60.8407	-45.64	31.5513	-999	LTP	L	strip	Left Cerebral White Matter	supramarginal
+LTP6	-56.0737	-39.9543	39.2163	-999	LTP	L	strip	Left SMG supramarginal gyrus	supramarginal
+IHA1	2.93433	16.7668	20.5963	-999	IHA	R	strip	Right MCgG middle cingulate gyrus	n/a
+IHA2	5.18044	21.1671	31.1347	-999	IHA	R	strip	Left MCgG middle cingulate gyrus	superiorfrontal
+IHA3	6.09069	24.6782	41.9966	-999	IHA	R	strip	n/a	superiorfrontal
+IHA4	5.66517	27.3003	53.1819	-999	IHA	R	strip	n/a	superiorfrontal
+IHA5	-0.0160272	27.7224	61.776	-999	IHA	L	strip	Left SFG superior frontal gyrus	superiorfrontal
+IHA6	-10.1629	23.4442	67.1587	-999	IHA	L	strip	n/a	superiorfrontal
+IHP1	6.30222	-35.0691	42.659	-999	IHP	R	strip	Right PCu precuneus	precuneus
+IHP2	6.91215	-24.2504	45.8265	-999	IHP	R	strip	Left PCgG posterior cingulate gyrus	posteriorcingulate
+IHP3	7.4405	-14.2329	50.3797	-999	IHP	R	strip	n/a	paracentral
+IHP4	6.79289	-3.77945	53.7344	-999	IHP	R	strip	n/a	paracentral
+IHP5	7.32126	6.23804	58.2876	-999	IHP	R	strip	n/a	superiorfrontal
+IHP6	4.16204	16.2384	60.7671	-999	IHP	R	strip	n/a	superiorfrontal
+AFD1	-2.08686	7.84513	20.8373	-999	AFD	L	depth	Left Cerebral White Matter	n/a
+AFD2	-4.06809	9.39396	26.5065	-999	AFD	L	depth	Left Cerebral White Matter	caudalanteriorcingulate
+AFD3	-4.78876	11.5855	30.7389	-999	AFD	L	depth	Left Cerebral White Matter	caudalanteriorcingulate
+AFD4	-5.51569	13.2223	37.4706	-999	AFD	L	depth	Left MCgG middle cingulate gyrus	caudalanteriorcingulate
+PFD1	-7.85674	-1.38201	36.5569	-999	PFD	L	depth	Left MCgG middle cingulate gyrus	posteriorcingulate
+PFD2	-8.34518	2.10352	41.6304	-999	PFD	L	depth	Left Cerebral White Matter	superiorfrontal
+PFD3	-9.06587	4.29518	45.8629	-999	PFD	L	depth	Left Cerebral White Matter	superiorfrontal
+PFD4	-10.7333	7.9392	50.9876	-999	PFD	L	depth	Left Cerebral White Matter	superiorfrontal
+APD1	-15.6383	-21.7309	44.5703	-999	APD	L	depth	Left Cerebral White Matter	paracentral
+APD2	-15.4939	-21.793	49.2962	-999	APD	L	depth	Left Cerebral White Matter	precentral
+APD3	-14.252	-22.8149	55.3569	-999	APD	L	depth	Left Cerebral White Matter	precentral
+APD4	-14.1138	-23.432	62.582	-999	APD	L	depth	Left Cerebral White Matter	precentral
+PPD1	-16.1037	-32.6117	46.1288	-999	PPD	L	depth	Left Cerebral White Matter	paracentral
+PPD2	-15.5701	-30.3323	51.4236	-999	PPD	L	depth	Left Cerebral White Matter	precentral
+PPD3	-15.0365	-28.053	56.7184	-999	PPD	L	depth	Left Cerebral White Matter	precentral
+PPD4	-13.3994	-26.1785	60.8487	-999	PPD	L	depth	Left PrG precentral gyrus	precentral

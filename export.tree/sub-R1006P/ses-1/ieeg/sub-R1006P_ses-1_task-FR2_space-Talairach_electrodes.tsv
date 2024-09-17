@@ -1,0 +1,124 @@
+name	x	y	z	size	group	hemisphere	type	wb.region	ind.region	das.region	stein.region
+G1	39.4347	-5.25127	-31.8665	-999	G	R	grid	n/a	inferiortemporal	n/a	n/a
+G2	46.7232	-12.1093	-27.0331	-999	G	R	grid	n/a	inferiortemporal	n/a	n/a
+G3	52.8255	-17.9649	-22.4639	-999	G	R	grid	n/a	inferiortemporal	n/a	n/a
+G4	58.3447	-25.8473	-16.4931	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G5	61.5031	-32.4897	-9.87309	-999	G	R	grid	n/a	inferiortemporal	n/a	n/a
+G6	64.5158	-39.8235	-4.14374	-999	G	R	grid	n/a	inferiortemporal	n/a	n/a
+G7	61.3534	-46.5812	3.27545	-999	G	R	grid	n/a	inferiortemporal	n/a	n/a
+G8	58.4946	-53.4403	9.08145	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G9	42.9658	2.57305	-26.1037	-999	G	R	grid	n/a	inferiortemporal	n/a	n/a
+G10	49.5297	-3.47558	-21.4716	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G11	54.984	-10.3235	-15.7131	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G12	59.1183	-17.6238	-9.93212	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G13	63.6616	-24.8482	-3.12226	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G14	63.9167	-31.774	3.5773	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G15	64.435	-39.2934	10.8411	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G16	61.127	-46.7184	17.8646	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G17	39.1394	14.0233	-29.6389	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G18	44.8854	8.56015	-22.0994	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G19	50.7649	4.55394	-14.8474	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G20	55.2435	-1.63404	-8.24985	-999	G	R	grid	n/a	middletemporal	n/a	n/a
+G21	58.3493	-8.00533	-0.665214	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G22	60.5319	-13.9583	7.37228	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G23	61.2487	-21.0571	14.5559	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G24	61.6495	-27.2659	22.6484	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G25	36.7465	22.5696	-23.3082	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G26	42.9541	16.9124	-15.7054	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G27	47.7768	11.8374	-8.29288	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G28	52.8507	6.91213	-1.91956	-999	G	R	grid	n/a	superiortemporal	n/a	n/a
+G29	57.2764	1.02256	6.18326	-999	G	R	grid	n/a	precentral	n/a	n/a
+G30	59.0623	-5.76745	14.4814	-999	G	R	grid	n/a	postcentral	n/a	n/a
+G31	58.8031	-12.2032	22.5862	-999	G	R	grid	n/a	postcentral	n/a	n/a
+G32	57.9893	-19.4167	28.5862	-999	G	R	grid	n/a	supramarginal	n/a	n/a
+G33	45.9025	35.5419	-1.92783	-999	G	R	grid	n/a	parstriangularis	n/a	n/a
+G34	50.6037	27.5211	2.30494	-999	G	R	grid	n/a	parstriangularis	n/a	n/a
+G35	52.8753	18.2537	7.80483	-999	G	R	grid	n/a	parsopercularis	n/a	n/a
+G36	56.718	9.58546	12.1432	-999	G	R	grid	n/a	precentral	n/a	n/a
+G37	59.5847	1.58025	17.4039	-999	G	R	grid	n/a	precentral	n/a	n/a
+G38	59.6657	-8.02833	21.7312	-999	G	R	grid	n/a	postcentral	n/a	n/a
+G39	59.2325	-17.1675	27.0496	-999	G	R	grid	n/a	supramarginal	n/a	n/a
+G40	58.5359	-25.6924	32.219	-999	G	R	grid	n/a	supramarginal	n/a	n/a
+G41	44.3762	40.4803	6.98869	-999	G	R	grid	n/a	parstriangularis	n/a	n/a
+G42	49.539	32.2667	11.3045	-999	G	R	grid	n/a	rostralmiddlefrontal	n/a	n/a
+G43	52.4057	24.2615	16.5652	-999	G	R	grid	n/a	rostralmiddlefrontal	n/a	n/a
+G44	55.5358	15.6423	21.9735	-999	G	R	grid	n/a	precentral	n/a	n/a
+G45	56.6211	7.37742	27.1884	-999	G	R	grid	n/a	precentral	n/a	n/a
+G46	57.6252	-2.61968	31.6529	-999	G	R	grid	n/a	postcentral	n/a	n/a
+G47	56.9287	-11.1441	36.8222	-999	G	R	grid	n/a	postcentral	n/a	n/a
+G48	54.3573	-20.9009	39.9094	-999	G	R	grid	n/a	supramarginal	n/a	n/a
+G49	38.307	43.5646	28.3935	-999	G	R	grid	n/a	rostralmiddlefrontal	n/a	n/a
+G50	42.7164	34.1512	30.6841	-999	G	R	grid	n/a	rostralmiddlefrontal	n/a	n/a
+G51	46.6643	24.9313	32.9058	-999	G	R	grid	n/a	rostralmiddlefrontal	n/a	n/a
+G52	50.5596	15.987	36.1866	-999	G	R	grid	n/a	precentral	n/a	n/a
+G53	54.3617	6.0711	37.4304	-999	G	R	grid	n/a	precentral	n/a	n/a
+G54	55.7222	-4.3314	38.641	-999	G	R	grid	n/a	postcentral	n/a	n/a
+G55	56.4104	-14.2016	38.5757	-999	G	R	grid	n/a	postcentral	n/a	n/a
+G56	56.8476	-24.2164	39.6495	-999	G	R	grid	n/a	supramarginal	n/a	n/a
+G57	31.6825	44.3423	36.8141	-999	G	R	grid	n/a	rostralmiddlefrontal	n/a	n/a
+G58	35.4846	34.4264	38.058	-999	G	R	grid	n/a	rostralmiddlefrontal	n/a	n/a
+G59	40.3031	25.0941	41.4745	-999	G	R	grid	n/a	caudalmiddlefrontal	n/a	n/a
+G60	45.9801	16.4104	44.8006	-999	G	R	grid	n/a	caudalmiddlefrontal	n/a	n/a
+G61	48.608	6.7367	47.0469	-999	G	R	grid	n/a	precentral	n/a	n/a
+G62	51.0899	-3.63284	48.3131	-999	G	R	grid	n/a	precentral	n/a	n/a
+G63	52.4504	-14.0359	49.5227	-999	G	R	grid	n/a	postcentral	n/a	n/a
+G64	50.4864	-24.0534	48.2181	-999	G	R	grid	n/a	supramarginal	n/a	n/a
+AF1	5.4838	71.7078	14.8177	-999	AF	R	strip	n/a	superiorfrontal	n/a	n/a
+AF2	12.0882	66.9266	22.9566	-999	AF	R	strip	n/a	rostralmiddlefrontal	n/a	n/a
+AF3	18.5346	62.2093	28.8293	-999	AF	R	strip	n/a	rostralmiddlefrontal	n/a	n/a
+AF4	24.1064	54.0762	34.2724	-999	AF	R	strip	n/a	superiorfrontal	n/a	n/a
+AF5	28.3985	45.974	37.3937	-999	AF	R	strip	n/a	rostralmiddlefrontal	n/a	n/a
+AF6	30.7754	36.156	40.7766	-999	AF	R	strip	n/a	caudalmiddlefrontal	n/a	n/a
+OF1	7.68537	41.8323	-22.5776	-999	OF	R	strip	n/a	lateralorbitofrontal	n/a	n/a
+OF2	15.8813	43.915	-16.4352	-999	OF	R	strip	n/a	lateralorbitofrontal	n/a	n/a
+OF3	25.7008	46.3308	-12.3197	-999	OF	R	strip	n/a	lateralorbitofrontal	n/a	n/a
+OF4	35.9819	48.5524	-8.14132	-999	OF	R	strip	n/a	parsorbitalis	n/a	n/a
+OF5	41.0882	49.1637	-0.684857	-999	OF	R	strip	n/a	parsorbitalis	n/a	n/a
+OF6	42.1412	48.2324	10.7874	-999	OF	R	strip	n/a	rostralmiddlefrontal	n/a	n/a
+AST1	18.5527	-0.243304	-37.0349	-999	AST	R	strip	n/a	fusiform	n/a	n/a
+AST2	28.619	-1.94778	-38.2112	-999	AST	R	strip	n/a	fusiform	n/a	n/a
+AST3	39.4629	-3.99172	-35.1875	-999	AST	R	strip	n/a	inferiortemporal	n/a	n/a
+AST4	47.6426	-4.67297	-29.51	-999	AST	R	strip	n/a	inferiortemporal	n/a	n/a
+MST1	18.5527	-0.243304	-37.0349	-999	MST	R	strip	n/a	fusiform	n/a	n/a
+MST2	26.4891	-6.84959	-38.3549	-999	MST	R	strip	n/a	fusiform	n/a	n/a
+MST3	36.9888	-10.0067	-36.1471	-999	MST	R	strip	n/a	inferiortemporal	n/a	n/a
+MST4	46.6058	-11.5416	-31.2448	-999	MST	R	strip	n/a	inferiortemporal	n/a	n/a
+PST1	12.0133	-27.5663	-14.4703	-999	PST	R	strip	n/a	parahippocampal	n/a	n/a
+PST2	22.8448	-29.5853	-17.5887	-999	PST	R	strip	n/a	parahippocampal	n/a	n/a
+PST3	32.0932	-31.4431	-20.8222	-999	PST	R	strip	n/a	fusiform	n/a	n/a
+PST4	43.6902	-33.0373	-20.9184	-999	PST	R	strip	n/a	inferiortemporal	n/a	n/a
+O1	2.98364	-61.3617	23.3182	-999	O	R	strip	n/a	precuneus	n/a	n/a
+O2	5.96788	-71.441	22.3095	-999	O	R	strip	n/a	precuneus	n/a	n/a
+O3	10.4705	-80.6459	21.1974	-999	O	R	strip	n/a	cuneus	n/a	n/a
+O4	19.4637	-86.1916	19.5495	-999	O	R	strip	n/a	cuneus	n/a	n/a
+O5	29.3074	-86.8029	15.7606	-999	O	R	strip	n/a	lateraloccipital	n/a	n/a
+O6	38.4424	-83.8383	12.2776	-999	O	R	strip	n/a	lateraloccipital	n/a	n/a
+P1	2.14964	-52.188	22.4046	-999	P	R	strip	n/a	precuneus	n/a	n/a
+P2	3.6439	-60.3708	28.7463	-999	P	R	strip	n/a	precuneus	n/a	n/a
+P6	29.0977	-69.777	49.0527	-999	P	R	strip	n/a	superiorparietal	n/a	n/a
+P7	37.6173	-62.265	47.9114	-999	P	R	strip	n/a	inferiorparietal	n/a	n/a
+P8	42.9057	-53.3956	46.2926	-999	P	R	strip	n/a	supramarginal	n/a	n/a
+DEC1	12.0418	-14.2134	-16.1433	-999	DEC	R	depth	Clear Label	n/a	n/a	Right Sub
+DEC2	18.059	-13.972	-14.8556	-999	DEC	R	depth	Right Hippocampus	n/a	CA1	Right Sub
+DEC3	22.9545	-13.7638	-13.6198	-999	DEC	R	depth	Right Hippocampus	n/a	DG	Right DG
+DEC4	28.7734	-13.9447	-12.2571	-999	DEC	R	depth	Right Hippocampus	n/a	DG	Right CA1
+DA1	14.2528	-6.84255	-10.3578	-999	DA	R	depth	Right Amygdala	n/a	n/a	Right Amy
+DA2	20.3753	-7.14333	-11.0007	-999	DA	R	depth	Right Amygdala	n/a	n/a	Right Amy
+DA3	25.4287	-7.74883	-12.6603	-999	DA	R	depth	Right Cerebral White Matter	n/a	n/a	n/a
+DA4	30.5632	-6.6258	-13.6421	-999	DA	R	depth	Right Cerebral White Matter	n/a	n/a	n/a
+DH1	27.3723	-15.3861	-7.94813	-999	DH	R	depth	Right Inf Lat Vent	n/a	n/a	n/a
+DH2	33.6406	-14.9949	-7.70033	-999	DH	R	depth	Right Cerebral White Matter	n/a	n/a	n/a
+DH3	39.2487	-14.8311	-7.4411	-999	DH	R	depth	Right Cerebral White Matter	superiortemporal	n/a	n/a
+DH4	44.1443	-14.6229	-6.20519	-999	DH	R	depth	Right Cerebral White Matter	superiortemporal	n/a	n/a
+DHI1	26.4329	-17.7621	-8.53992	-999	DHI	R	depth	Right Hippocampus	n/a	n/a	Right CA1
+DHI2	32.1059	-18.6349	-8.06786	-999	DHI	R	depth	Right Hippocampus	n/a	n/a	n/a
+DHI3	36.5397	-18.2327	-6.89522	-999	DHI	R	depth	Right Cerebral White Matter	n/a	n/a	n/a
+DHI4	42.0143	-19.5256	-6.34857	-999	DHI	R	depth	Right Cerebral White Matter	superiortemporal	n/a	n/a
+DHT1	22.1407	-42.2002	9.05331	-999	DHT	R	depth	Right Lateral Ventricle	lingual	n/a	n/a
+DHT2	27.6153	-43.4909	9.64629	-999	DHT	R	depth	Right Lateral Ventricle	lingual	n/a	n/a
+DHT3	33.0898	-44.7819	10.2382	-999	DHT	R	depth	Right Cerebral White Matter	inferiorparietal	n/a	n/a
+DHT4	38.5645	-46.0725	10.8312	-999	DHT	R	depth	Right Cerebral White Matter	inferiorparietal	n/a	n/a
+DHAA1	23.6954	-45.8705	-3.00479	-999	DHAA	R	depth	Right Cerebral White Matter	lingual	n/a	n/a
+DHAA2	29.5142	-46.0506	-1.64237	-999	DHAA	R	depth	Right Cerebral White Matter	lingual	n/a	n/a
+DHAA3	34.4097	-45.8424	-0.406434	-999	DHAA	R	depth	Right FuG fusiform gyrus	inferiortemporal	n/a	n/a
+DHAA4	40.4795	-45.8725	-0.0840077	-999	DHAA	R	depth	Right Cerebral White Matter	inferiortemporal	n/a	n/a
